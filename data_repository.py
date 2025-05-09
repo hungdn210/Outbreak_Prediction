@@ -1,4 +1,4 @@
-# General Definition
+ # General Definition
 DATA_LOCATION = 'data'
 # Variables Definition
 DAYS_WITH_GROUND_FROST = 'groundfrost'  # Number of days with ground frost
@@ -9,8 +9,9 @@ TOTAL_PRECIPITATION = 'rainfall'        # Total precipitation including rain, sn
 SURFACE_WIND_SPEED = 'sfcWind'          # Surface wind speed (m/s)
 DAYS_WITH_SNOW_LYING = 'snowLying'      # Number of days with snow lying on the ground
 TOTAL_SUNSHINE_DURATION = 'sun'         # Total sunshine duration (hours)
-NEAR_SURFACE_TEMPERATURE = 'tas'        # Near-surface air temperature (°C)
-
+NEAR_SURFACE_TEMPERATURE_MIN = 'tasmin'        # Min near-surface air temperature (°C)
+NEAR_SURFACE_TEMPERATURE_MAX = 'tasmax'        # Max near-surface air temperature (°C)
+ 
 VARIABLE_METADATA = {
     DAYS_WITH_GROUND_FROST: {
         'name': 'groundfrost',
@@ -68,9 +69,16 @@ VARIABLE_METADATA = {
         'start_date': '1991-01-01',
         'end_date': '2000-12-31'
     },
-    NEAR_SURFACE_TEMPERATURE: {
-        'name': 'tas',
-        'description': 'Daily mean near-surface air temperature.',
+    NEAR_SURFACE_TEMPERATURE_MIN: {
+        'name': 'tasmin',
+        'description': 'Min daily mean near-surface air temperature.',
+        'unit': '°C',
+        'start_date': '1991-01-01',
+        'end_date': '2000-12-31'
+    },
+    NEAR_SURFACE_TEMPERATURE_MAX: {
+        'name': 'tasmax',
+        'description': 'Max daily mean near-surface air temperature.',
         'unit': '°C',
         'start_date': '1991-01-01',
         'end_date': '2000-12-31'
