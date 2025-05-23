@@ -1,0 +1,1882 @@
+{
+    "52.60266_1.39694": [
+        {
+            "location": "Norfolk",
+            "latitude": 52.64281,
+            "longitude": 1.404834,
+            "startedOn": "2/19/2008",
+            "endedOn": "5/31/2008",
+            "Susceptible": 39.0,
+            "Cases": 2,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        },
+        {
+            "location": "Kirkby",
+            "latitude": 52.59901,
+            "longitude": 1.33523,
+            "startedOn": "11/29/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 395.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        },
+        {
+            "location": "Witton, Norwich",
+            "latitude": 52.63,
+            "longitude": 1.41,
+            "startedOn": "1/25/2024",
+            "endedOn": "2/19/2024",
+            "Susceptible": 47.0,
+            "Cases": 2,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 3
+        },
+        {
+            "location": "Surlingham, Norwich",
+            "latitude": 52.6,
+            "longitude": 1.42,
+            "startedOn": "1/29/2024",
+            "endedOn": "2/19/2024",
+            "Susceptible": 183.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 3
+        },
+        {
+            "location": "Norwich, Norfolk",
+            "latitude": 52.62,
+            "longitude": 1.45,
+            "startedOn": "2/7/2024",
+            "endedOn": "2/19/2024",
+            "Susceptible": 82.0,
+            "Cases": 2,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 3
+        },
+        {
+            "location": "Surlingham, Norwich",
+            "latitude": 52.6,
+            "longitude": 1.42,
+            "startedOn": "2/3/2024",
+            "endedOn": "2/19/2024",
+            "Susceptible": 183.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 3
+        },
+        {
+            "location": "Little Plumstead, Norwich",
+            "latitude": 52.64,
+            "longitude": 1.4,
+            "startedOn": "2/22/2024",
+            "endedOn": "4/1/2024",
+            "Susceptible": 211.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 3
+        }
+    ],
+    "52.40119_0.85204": [
+        {
+            "location": "Norfolk",
+            "latitude": 52.392851,
+            "longitude": 0.932768,
+            "startedOn": "3/10/2008",
+            "endedOn": "5/31/2008",
+            "Susceptible": 33.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        }
+    ],
+    "51.20231_1.29281": [
+        {
+            "location": "Norfolk",
+            "latitude": 51.163208,
+            "longitude": 1.310398,
+            "startedOn": "2/13/2008",
+            "endedOn": "5/31/2008",
+            "Susceptible": 33.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        },
+        {
+            "location": "Sandwich",
+            "latitude": 51.2421,
+            "longitude": 1.3501,
+            "startedOn": "11/29/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 70.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        },
+        {
+            "location": "Little Mongeham, Deal",
+            "latitude": 51.21,
+            "longitude": 1.33,
+            "startedOn": "1/2/2024",
+            "endedOn": "2/19/2024",
+            "Susceptible": 35.0,
+            "Cases": 1,
+            "Killed and disposed of": 1,
+            "Deaths": 0,
+            "Serotype": 3
+        },
+        {
+            "location": "Dover, Kent",
+            "latitude": 51.21,
+            "longitude": 1.27,
+            "startedOn": "1/6/2024",
+            "endedOn": "2/19/2024",
+            "Susceptible": 128.0,
+            "Cases": 1,
+            "Killed and disposed of": 1,
+            "Deaths": 0,
+            "Serotype": 3
+        },
+        {
+            "location": "Eastry, Dover",
+            "latitude": 51.22,
+            "longitude": 1.27,
+            "startedOn": "1/3/2024",
+            "endedOn": "2/19/2024",
+            "Susceptible": 77.0,
+            "Cases": 3,
+            "Killed and disposed of": 3,
+            "Deaths": 0,
+            "Serotype": 3
+        },
+        {
+            "location": "Nottington, Dover",
+            "latitude": 51.23,
+            "longitude": 1.25,
+            "startedOn": "1/8/2024",
+            "endedOn": "2/19/2024",
+            "Susceptible": 2335.0,
+            "Cases": 2,
+            "Killed and disposed of": 2,
+            "Deaths": 0,
+            "Serotype": 3
+        }
+    ],
+    "52.48977_1.56506": [
+        {
+            "location": "Norfolk",
+            "latitude": 52.504667,
+            "longitude": 1.604909,
+            "startedOn": "2/8/2008",
+            "endedOn": "5/31/2008",
+            "Susceptible": 26.0,
+            "Cases": 2,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        },
+        {
+            "location": "Aldeby",
+            "latitude": 52.49712984,
+            "longitude": 1.63159544,
+            "startedOn": "10/29/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 255.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        },
+        {
+            "location": "Beccles 2",
+            "latitude": 52.48226,
+            "longitude": 1.60821,
+            "startedOn": "10/11/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 307.0,
+            "Cases": 5,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        },
+        {
+            "location": "Beccles 3",
+            "latitude": 52.49199,
+            "longitude": 1.64729,
+            "startedOn": "10/12/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 236.0,
+            "Cases": 2,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        },
+        {
+            "location": "Beccles 1",
+            "latitude": 52.4715,
+            "longitude": 1.62478,
+            "startedOn": "10/11/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 146.0,
+            "Cases": 10,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        },
+        {
+            "location": "Hadiscoe",
+            "latitude": 52.525701,
+            "longitude": 1.590509,
+            "startedOn": "10/8/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 67.0,
+            "Cases": 3,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        },
+        {
+            "location": "Thurlton ,Norwich",
+            "latitude": 52.53,
+            "longitude": 1.58,
+            "startedOn": "1/26/2024",
+            "endedOn": "2/19/2024",
+            "Susceptible": 586.0,
+            "Cases": 3,
+            "Killed and disposed of": 0,
+            "Deaths": 3,
+            "Serotype": 3
+        },
+        {
+            "location": "Raveninham, Norwich",
+            "latitude": 52.51,
+            "longitude": 1.53,
+            "startedOn": "2/1/2024",
+            "endedOn": "2/19/2024",
+            "Susceptible": 563.0,
+            "Cases": 6,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 3
+        },
+        {
+            "location": "Norwich, Norfolk",
+            "latitude": 52.53,
+            "longitude": 1.51,
+            "startedOn": "2/14/2024",
+            "endedOn": "2/19/2024",
+            "Susceptible": 115.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 3
+        },
+        {
+            "location": "Norwich, Norfolk",
+            "latitude": 52.53,
+            "longitude": 1.56,
+            "startedOn": "2/11/2024",
+            "endedOn": "2/19/2024",
+            "Susceptible": 106.0,
+            "Cases": 2,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 3
+        },
+        {
+            "location": "Norton Subcourse, Norfolk",
+            "latitude": 52.51,
+            "longitude": 1.6,
+            "startedOn": "2/25/2024",
+            "endedOn": "4/1/2024",
+            "Susceptible": 322.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 3
+        }
+    ],
+    "52.07357_1.00626": [
+        {
+            "location": "Suffolk",
+            "latitude": 52.076188,
+            "longitude": 0.936768,
+            "startedOn": "5/7/2008",
+            "endedOn": "5/31/2008",
+            "Susceptible": -1,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        },
+        {
+            "location": "Ipswich1",
+            "latitude": 52.0816,
+            "longitude": 0.9265,
+            "startedOn": "11/29/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 744.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        },
+        {
+            "location": "Ipswich 10",
+            "latitude": 52.075394,
+            "longitude": 0.932417,
+            "startedOn": "10/5/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 79.0,
+            "Cases": 7,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        },
+        {
+            "location": "Burstall",
+            "latitude": 52.0568,
+            "longitude": 1.059,
+            "startedOn": "9/22/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 42.0,
+            "Cases": 1,
+            "Killed and disposed of": 1,
+            "Deaths": 0,
+            "Serotype": 8
+        },
+        {
+            "location": "Copdock",
+            "latitude": 52.0418,
+            "longitude": 1.0675,
+            "startedOn": "9/22/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 50.0,
+            "Cases": 1,
+            "Killed and disposed of": 1,
+            "Deaths": 0,
+            "Serotype": 8
+        }
+    ],
+    "51.96581_0.99904": [
+        {
+            "location": "Essex",
+            "latitude": 51.965094,
+            "longitude": 0.955703,
+            "startedOn": "4/16/2008",
+            "endedOn": "5/31/2008",
+            "Susceptible": -1,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        },
+        {
+            "location": "Dedham",
+            "latitude": 51.956,
+            "longitude": 0.97649,
+            "startedOn": "10/11/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 331.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        },
+        {
+            "location": "Ipswich 9",
+            "latitude": 51.99501,
+            "longitude": 0.948531,
+            "startedOn": "10/2/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 118.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        },
+        {
+            "location": "Ipswich 4",
+            "latitude": 51.968243,
+            "longitude": 1.079107,
+            "startedOn": "9/28/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 53.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        },
+        {
+            "location": "Colchester",
+            "latitude": 52.0034,
+            "longitude": 1.01758,
+            "startedOn": "10/2/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 53.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        },
+        {
+            "location": "East Bergholt 1",
+            "latitude": 51.97022,
+            "longitude": 1.00321,
+            "startedOn": "10/1/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 58.0,
+            "Cases": 2,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        },
+        {
+            "location": "East Bergholt",
+            "latitude": 51.97476,
+            "longitude": 1.016381,
+            "startedOn": "9/28/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 85.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        }
+    ],
+    "51.97013_0.82457": [
+        {
+            "location": "Suffolk",
+            "latitude": 52.012256,
+            "longitude": 0.866993,
+            "startedOn": "4/21/2008",
+            "endedOn": "5/31/2008",
+            "Susceptible": 180.0,
+            "Cases": 4,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        },
+        {
+            "location": "Colchester",
+            "latitude": 51.96836509,
+            "longitude": 0.84165735,
+            "startedOn": "10/29/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 50.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        },
+        {
+            "location": "Leavenheath",
+            "latitude": 51.99116499,
+            "longitude": 0.82853361,
+            "startedOn": "10/29/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 1.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        },
+        {
+            "location": "Subdury",
+            "latitude": 52.01646807,
+            "longitude": 0.86073899,
+            "startedOn": "10/17/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 80.0,
+            "Cases": 2,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        },
+        {
+            "location": "Nayland",
+            "latitude": 51.9617,
+            "longitude": 0.86052,
+            "startedOn": "10/14/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 43.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        },
+        {
+            "location": "Bures",
+            "latitude": 51.99056,
+            "longitude": 0.76459,
+            "startedOn": "10/2/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 85.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        }
+    ],
+    "51.10370_0.94286": [
+        {
+            "location": "Ashford6",
+            "latitude": 51.1486,
+            "longitude": 0.9808,
+            "startedOn": "11/29/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 1000.0,
+            "Cases": 5,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        }
+    ],
+    "50.90643_0.07679": [
+        {
+            "location": "Uckfield1",
+            "latitude": 50.9373,
+            "longitude": 0.1082,
+            "startedOn": "11/29/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 93.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        }
+    ],
+    "51.23805_m0.42410": [
+        {
+            "location": "Leatherhead",
+            "latitude": 51.2793,
+            "longitude": -0.466,
+            "startedOn": "11/29/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 400.0,
+            "Cases": 2,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        }
+    ],
+    "50.81574_m1.46054": [
+        {
+            "location": "Boldre Lymington",
+            "latitude": 50.7979,
+            "longitude": -1.5273,
+            "startedOn": "11/29/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 70.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        }
+    ],
+    "51.11182_0.60041": [
+        {
+            "location": "Ashford4",
+            "latitude": 51.1119,
+            "longitude": 0.6298,
+            "startedOn": "11/29/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 184.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        },
+        {
+            "location": "Ashford 3",
+            "latitude": 51.1511,
+            "longitude": 0.6559,
+            "startedOn": "11/29/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": -1,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        }
+    ],
+    "51.00402_0.59437": [
+        {
+            "location": "Tenterden",
+            "latitude": 51.0192,
+            "longitude": 0.6763,
+            "startedOn": "11/29/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 841.0,
+            "Cases": 3,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        },
+        {
+            "location": "Rye",
+            "latitude": 50.9635,
+            "longitude": 0.6169,
+            "startedOn": "11/29/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 85.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        },
+        {
+            "location": "Robertsbridge",
+            "latitude": 51.0074,
+            "longitude": 0.5272,
+            "startedOn": "11/29/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 12.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        },
+        {
+            "location": "Cranbrook",
+            "latitude": 51.0365,
+            "longitude": 0.6149,
+            "startedOn": "11/29/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 165.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        },
+        {
+            "location": "Sandhurst",
+            "latitude": 51.029,
+            "longitude": 0.58089,
+            "startedOn": "11/29/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 120.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        },
+        {
+            "location": "Higham",
+            "latitude": 50.9951,
+            "longitude": 0.5936,
+            "startedOn": "10/17/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 1150.0,
+            "Cases": 2,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        }
+    ],
+    "52.59745_1.57381": [
+        {
+            "location": "Haddiscoe Marshes",
+            "latitude": 52.5473,
+            "longitude": 1.6022,
+            "startedOn": "11/29/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 300.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        },
+        {
+            "location": "NORWICH",
+            "latitude": 52.5519,
+            "longitude": 1.6095,
+            "startedOn": "11/29/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 100.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        },
+        {
+            "location": "Cantley, Broadland",
+            "latitude": 52.59,
+            "longitude": 1.53,
+            "startedOn": "12/6/2023",
+            "endedOn": "2/19/2024",
+            "Susceptible": 164.0,
+            "Cases": 2,
+            "Killed and disposed of": 0,
+            "Deaths": 2,
+            "Serotype": 3
+        },
+        {
+            "location": "South Burlingham, Norfolk",
+            "latitude": 52.61,
+            "longitude": 1.5,
+            "startedOn": "12/19/2023",
+            "endedOn": "2/19/2024",
+            "Susceptible": 81.0,
+            "Cases": 1,
+            "Killed and disposed of": 1,
+            "Deaths": 0,
+            "Serotype": 3
+        },
+        {
+            "location": "Moulton St. Mary, Norwich",
+            "latitude": 52.61,
+            "longitude": 1.54,
+            "startedOn": "12/16/2023",
+            "endedOn": "2/19/2024",
+            "Susceptible": 132.0,
+            "Cases": 2,
+            "Killed and disposed of": 2,
+            "Deaths": 0,
+            "Serotype": 3
+        },
+        {
+            "location": "Halvergate, Norwich",
+            "latitude": 52.6,
+            "longitude": 1.57,
+            "startedOn": "1/3/2024",
+            "endedOn": "2/19/2024",
+            "Susceptible": 382.0,
+            "Cases": 1,
+            "Killed and disposed of": 1,
+            "Deaths": 0,
+            "Serotype": 3
+        },
+        {
+            "location": "Limpenhoe, Norfolk",
+            "latitude": 52.57,
+            "longitude": 1.54,
+            "startedOn": "1/5/2024",
+            "endedOn": "2/19/2024",
+            "Susceptible": 2226.0,
+            "Cases": 6,
+            "Killed and disposed of": 6,
+            "Deaths": 0,
+            "Serotype": 3
+        },
+        {
+            "location": "Limpenhoe, Norwich",
+            "latitude": 52.56,
+            "longitude": 1.57,
+            "startedOn": "1/17/2024",
+            "endedOn": "2/19/2024",
+            "Susceptible": 151.0,
+            "Cases": 1,
+            "Killed and disposed of": 1,
+            "Deaths": 0,
+            "Serotype": 3
+        },
+        {
+            "location": "Norwich, Norfolk",
+            "latitude": 52.57,
+            "longitude": 1.5,
+            "startedOn": "2/8/2024",
+            "endedOn": "2/19/2024",
+            "Susceptible": 275.0,
+            "Cases": 5,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 3
+        },
+        {
+            "location": "Great Yarmouth, Norfolk",
+            "latitude": 52.63,
+            "longitude": 1.63,
+            "startedOn": "2/16/2024",
+            "endedOn": "2/19/2024",
+            "Susceptible": 104.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 3
+        },
+        {
+            "location": "Reedham, Norfolk",
+            "latitude": 52.57,
+            "longitude": 1.57,
+            "startedOn": "1/18/2024",
+            "endedOn": "2/19/2024",
+            "Susceptible": 3737.0,
+            "Cases": 5,
+            "Killed and disposed of": 1,
+            "Deaths": 0,
+            "Serotype": 3
+        }
+    ],
+    "51.01111_0.25256": [
+        {
+            "location": "Heathfield",
+            "latitude": 50.9881,
+            "longitude": 0.2454,
+            "startedOn": "11/9/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": -1,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        }
+    ],
+    "51.09926_1.11403": [
+        {
+            "location": "Hythe",
+            "latitude": 51.0896,
+            "longitude": 1.0631,
+            "startedOn": "11/28/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 1300.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        }
+    ],
+    "50.90327_0.24735": [
+        {
+            "location": "CHIDDINGLY",
+            "latitude": 50.9129,
+            "longitude": 0.1782,
+            "startedOn": "11/29/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 135.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        }
+    ],
+    "51.88276_m0.22727": [
+        {
+            "location": "ROYSTON",
+            "latitude": 51.918,
+            "longitude": -0.272,
+            "startedOn": "11/29/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 67.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        }
+    ],
+    "52.17183_1.36399": [
+        {
+            "location": "LETHERINGHAM",
+            "latitude": 52.17,
+            "longitude": 1.3226,
+            "startedOn": "11/29/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 32.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        }
+    ],
+    "51.88947_m0.75021": [
+        {
+            "location": "CUBLINGTON",
+            "latitude": 51.9118,
+            "longitude": -0.7793,
+            "startedOn": "11/29/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 120.0,
+            "Cases": 4,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        }
+    ],
+    "52.49496_1.38863": [
+        {
+            "location": "NORWICH2",
+            "latitude": 52.5281,
+            "longitude": 1.4397,
+            "startedOn": "11/29/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 48.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        },
+        {
+            "location": "NORWICH1",
+            "latitude": 52.5285,
+            "longitude": 1.4306,
+            "startedOn": "11/29/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 40.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        },
+        {
+            "location": "Bungay",
+            "latitude": 52.454,
+            "longitude": 1.416,
+            "startedOn": "11/29/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 60.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        },
+        {
+            "location": "Bungay",
+            "latitude": 52.4789,
+            "longitude": 1.32,
+            "startedOn": "10/15/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 24.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        },
+        {
+            "location": "Sisland, Norwich",
+            "latitude": 52.53,
+            "longitude": 1.45,
+            "startedOn": "1/5/2024",
+            "endedOn": "2/19/2024",
+            "Susceptible": 45.0,
+            "Cases": 1,
+            "Killed and disposed of": 1,
+            "Deaths": 0,
+            "Serotype": 3
+        },
+        {
+            "location": "Loddon, Norfolk",
+            "latitude": 52.53,
+            "longitude": 1.44,
+            "startedOn": "2/7/2024",
+            "endedOn": "2/19/2024",
+            "Susceptible": 214.0,
+            "Cases": 2,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 3
+        }
+    ],
+    "52.82776_1.05810": [
+        {
+            "location": "DEREHAM",
+            "latitude": 52.8167,
+            "longitude": 1.0838,
+            "startedOn": "11/29/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 72.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        }
+    ],
+    "52.70513_1.58261": [
+        {
+            "location": "Great Yarmouth",
+            "latitude": 52.6864,
+            "longitude": 1.5537,
+            "startedOn": "11/29/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 5.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        },
+        {
+            "location": "Upton, Norwich",
+            "latitude": 52.66,
+            "longitude": 1.54,
+            "startedOn": "2/17/2024",
+            "endedOn": "2/19/2024",
+            "Susceptible": 27.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 3
+        },
+        {
+            "location": "Potter Heigham, Norfolk",
+            "latitude": 52.72,
+            "longitude": 1.56,
+            "startedOn": "2/28/2024",
+            "endedOn": "4/1/2024",
+            "Susceptible": 172.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 3
+        }
+    ],
+    "51.33781_0.09623": [
+        {
+            "location": "Keston",
+            "latitude": 51.3373,
+            "longitude": 0.0249,
+            "startedOn": "11/29/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 10.0,
+            "Cases": 2,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        }
+    ],
+    "52.38208_1.55637": [
+        {
+            "location": "Beccles",
+            "latitude": 52.3484,
+            "longitude": 1.5895,
+            "startedOn": "11/29/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 1895.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        },
+        {
+            "location": "Halesworth",
+            "latitude": 52.3335,
+            "longitude": 1.5566,
+            "startedOn": "11/29/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 66.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        },
+        {
+            "location": "Halesworth",
+            "latitude": 52.3379622,
+            "longitude": 1.51133861,
+            "startedOn": "10/27/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 684.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        }
+    ],
+    "52.27954_1.37215": [
+        {
+            "location": "Halesworth1",
+            "latitude": 52.3049,
+            "longitude": 1.3993,
+            "startedOn": "11/29/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 66.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        },
+        {
+            "location": "Woodbridge",
+            "latitude": 52.25022,
+            "longitude": 1.34169,
+            "startedOn": "10/9/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 13.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        },
+        {
+            "location": "Framlingham",
+            "latitude": 52.245951,
+            "longitude": 1.405653,
+            "startedOn": "10/7/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 34.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        }
+    ],
+    "51.67175_m0.58265": [
+        {
+            "location": "Rickmansworth",
+            "latitude": 51.6774,
+            "longitude": -0.4977,
+            "startedOn": "11/29/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 46.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        }
+    ],
+    "52.71036_1.40531": [
+        {
+            "location": "Sloley",
+            "latitude": 52.7586,
+            "longitude": 1.3966,
+            "startedOn": "11/29/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 121.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        }
+    ],
+    "52.41611_0.14701": [
+        {
+            "location": "Ely",
+            "latitude": 52.3721,
+            "longitude": 0.15078,
+            "startedOn": "11/29/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 60.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        }
+    ],
+    "51.77216_m0.05766": [
+        {
+            "location": "Hoddesdon",
+            "latitude": 51.76176,
+            "longitude": -0.025767,
+            "startedOn": "11/29/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 192.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        }
+    ],
+    "51.10789_0.77166": [
+        {
+            "location": "Ashford2",
+            "latitude": 51.137977,
+            "longitude": 0.783608,
+            "startedOn": "11/29/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 78.0,
+            "Cases": 1,
+            "Killed and disposed of": 1,
+            "Deaths": 0,
+            "Serotype": 8
+        }
+    ],
+    "51.88000_m0.05301": [
+        {
+            "location": "Stanton Ware",
+            "latitude": 51.8841,
+            "longitude": 0.0232,
+            "startedOn": "11/29/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 77.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        }
+    ],
+    "51.67372_m0.75616": [
+        {
+            "location": "Amersham",
+            "latitude": 51.6661,
+            "longitude": -0.6735,
+            "startedOn": "11/29/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 165.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        }
+    ],
+    "51.21147_0.94973": [
+        {
+            "location": "Ashford1",
+            "latitude": 51.1787,
+            "longitude": 0.9569,
+            "startedOn": "11/29/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 70.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        },
+        {
+            "location": "Ashford",
+            "latitude": 51.19245,
+            "longitude": 0.87389,
+            "startedOn": "10/16/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 1350.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        },
+        {
+            "location": "Ashford, Kent",
+            "latitude": 51.19,
+            "longitude": 0.89,
+            "startedOn": "2/16/2024",
+            "endedOn": "2/19/2024",
+            "Susceptible": 858.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 3
+        }
+    ],
+    "52.07790_0.83138": [
+        {
+            "location": "Ipswich",
+            "latitude": 52.0866,
+            "longitude": 0.9134,
+            "startedOn": "11/29/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 550.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        },
+        {
+            "location": "Newton Green",
+            "latitude": 52.03593225,
+            "longitude": 0.79927924,
+            "startedOn": "10/29/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 4.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        }
+    ],
+    "52.09264_0.13144": [
+        {
+            "location": "Sawston",
+            "latitude": 52.119243,
+            "longitude": 0.174847,
+            "startedOn": "11/29/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 13.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        }
+    ],
+    "51.87372_0.29542": [
+        {
+            "location": "Takely",
+            "latitude": 51.86466,
+            "longitude": 0.24641,
+            "startedOn": "11/29/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 73.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        }
+    ],
+    "50.89986_0.41788": [
+        {
+            "location": "Catsfield",
+            "latitude": 50.89281,
+            "longitude": 0.44404,
+            "startedOn": "11/29/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 650.0,
+            "Cases": 3,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        }
+    ],
+    "51.56166_m0.41294": [
+        {
+            "location": "Harefield",
+            "latitude": 51.59134,
+            "longitude": -0.47608,
+            "startedOn": "11/29/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 250.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        }
+    ],
+    "52.08935_0.30648": [
+        {
+            "location": "Castle Camps",
+            "latitude": 52.06222,
+            "longitude": 0.38073,
+            "startedOn": "11/29/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 270.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        }
+    ],
+    "51.01720_m0.08938": [
+        {
+            "location": "Haywards Heath",
+            "latitude": 51.00319,
+            "longitude": -0.02597,
+            "startedOn": "11/29/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 678.0,
+            "Cases": 2,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        }
+    ],
+    "51.75861_0.63742": [
+        {
+            "location": "Little Baddow",
+            "latitude": 51.73304,
+            "longitude": 0.58619,
+            "startedOn": "11/29/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 31.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        },
+        {
+            "location": "Woodham Walter",
+            "latitude": 51.739802,
+            "longitude": 0.637906,
+            "startedOn": "10/4/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 26.0,
+            "Cases": 3,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        }
+    ],
+    "52.61229_1.04305": [
+        {
+            "location": "Dereham",
+            "latitude": 52.64507,
+            "longitude": 1.04459,
+            "startedOn": "11/12/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 27.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        }
+    ],
+    "52.27439_1.54774": [
+        {
+            "location": "Westleton",
+            "latitude": 52.25915,
+            "longitude": 1.57389,
+            "startedOn": "11/6/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 48.0,
+            "Cases": 2,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        },
+        {
+            "location": "Thorington",
+            "latitude": 52.256978,
+            "longitude": 1.57235497,
+            "startedOn": "10/27/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 49.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        }
+    ],
+    "52.41277_0.32332": [
+        {
+            "location": "Ely",
+            "latitude": 52.427657,
+            "longitude": 0.258628,
+            "startedOn": "11/2/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 130.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        }
+    ],
+    "52.39216_1.20431": [
+        {
+            "location": "Diss",
+            "latitude": 52.393254,
+            "longitude": 1.150496,
+            "startedOn": "11/1/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 1046.0,
+            "Cases": 3,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        }
+    ],
+    "52.81805_1.41373": [
+        {
+            "location": "Antingham",
+            "latitude": 52.84476074,
+            "longitude": 1.34118864,
+            "startedOn": "10/25/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 15.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        },
+        {
+            "location": "Antingham, North Walsham",
+            "latitude": 52.84,
+            "longitude": 1.34,
+            "startedOn": "1/27/2024",
+            "endedOn": "2/19/2024",
+            "Susceptible": 282.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 3
+        }
+    ],
+    "51.22678_0.26308": [
+        {
+            "location": "Sevenoaks",
+            "latitude": 51.19949883,
+            "longitude": 0.23271306,
+            "startedOn": "10/21/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 100.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        }
+    ],
+    "52.48431_1.74144": [
+        {
+            "location": "Lowestoft 2",
+            "latitude": 52.48336376,
+            "longitude": 1.7836857,
+            "startedOn": "10/20/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 1.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        },
+        {
+            "location": "Lowestoft",
+            "latitude": 52.50775,
+            "longitude": 1.66779,
+            "startedOn": "10/16/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 58.0,
+            "Cases": 7,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        },
+        {
+            "location": "Blundeston",
+            "latitude": 52.52125,
+            "longitude": 1.698732,
+            "startedOn": "10/5/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 127.0,
+            "Cases": 2,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        },
+        {
+            "location": "Lowestoft",
+            "latitude": 52.5326,
+            "longitude": 1.7189,
+            "startedOn": "9/22/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 60.0,
+            "Cases": 1,
+            "Killed and disposed of": 1,
+            "Deaths": 0,
+            "Serotype": 8
+        }
+    ],
+    "51.00009_0.76522": [
+        {
+            "location": "Wittersham",
+            "latitude": 51.01233166,
+            "longitude": 0.6869357,
+            "startedOn": "10/19/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 2400.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        }
+    ],
+    "51.65458_0.45785": [
+        {
+            "location": "Ingatestone",
+            "latitude": 51.68158806,
+            "longitude": 0.43593059,
+            "startedOn": "10/18/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 42.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        }
+    ],
+    "52.62838_0.33473": [
+        {
+            "location": "Peterborough",
+            "latitude": 52.59256,
+            "longitude": 0.30045,
+            "startedOn": "10/14/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 2360.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        }
+    ],
+    "51.76239_0.46370": [
+        {
+            "location": "Chelmsford",
+            "latitude": 51.777,
+            "longitude": 0.48557,
+            "startedOn": "10/11/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 18.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        }
+    ],
+    "52.06897_1.18110": [
+        {
+            "location": "Ipswich 11",
+            "latitude": 52.082294,
+            "longitude": 1.213632,
+            "startedOn": "10/4/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 2.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 1,
+            "Serotype": 8
+        },
+        {
+            "location": "Ipswich 6",
+            "latitude": 52.108758,
+            "longitude": 1.17714,
+            "startedOn": "9/29/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 216.0,
+            "Cases": 3,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        }
+    ],
+    "52.17671_1.18878": [
+        {
+            "location": "Stowmarket 1",
+            "latitude": 52.185487,
+            "longitude": 1.186708,
+            "startedOn": "9/30/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 61.0,
+            "Cases": 4,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        },
+        {
+            "location": "Ipswich 3",
+            "latitude": 52.153826,
+            "longitude": 1.151693,
+            "startedOn": "9/25/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 190.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        },
+        {
+            "location": "Swilland",
+            "latitude": 52.19212,
+            "longitude": 1.14978,
+            "startedOn": "9/30/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 4.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        }
+    ],
+    "52.18132_1.01353": [
+        {
+            "location": "Stowmarket",
+            "latitude": 52.16158,
+            "longitude": 0.99527,
+            "startedOn": "10/1/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 175.0,
+            "Cases": 4,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        }
+    ],
+    "51.85350_1.16587": [
+        {
+            "location": "Clacton-on-sea",
+            "latitude": 51.87273,
+            "longitude": 1.11405,
+            "startedOn": "9/28/2007",
+            "endedOn": "5/31/2008",
+            "Susceptible": 115.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 8
+        }
+    ],
+    "51.31477_1.12861": [
+        {
+            "location": "Littlebourne, Canterbury",
+            "latitude": 51.29,
+            "longitude": 1.15,
+            "startedOn": "11/26/2023",
+            "endedOn": "2/19/2024",
+            "Susceptible": 463.0,
+            "Cases": 2,
+            "Killed and disposed of": 2,
+            "Deaths": 0,
+            "Serotype": 3
+        },
+        {
+            "location": "Canterbury, Kent",
+            "latitude": 51.33,
+            "longitude": 1.18,
+            "startedOn": "1/21/2024",
+            "endedOn": "2/19/2024",
+            "Susceptible": 74.0,
+            "Cases": 1,
+            "Killed and disposed of": 1,
+            "Deaths": 0,
+            "Serotype": 3
+        }
+    ],
+    "51.20702_1.12130": [
+        {
+            "location": "Nackington, Canterbury",
+            "latitude": 51.25,
+            "longitude": 1.07,
+            "startedOn": "11/25/2023",
+            "endedOn": "2/19/2024",
+            "Susceptible": 941.0,
+            "Cases": 4,
+            "Killed and disposed of": 4,
+            "Deaths": 0,
+            "Serotype": 3
+        },
+        {
+            "location": "Kingston, Canterbury",
+            "latitude": 51.19,
+            "longitude": 1.1,
+            "startedOn": "12/6/2023",
+            "endedOn": "2/19/2024",
+            "Susceptible": 186.0,
+            "Cases": 1,
+            "Killed and disposed of": 1,
+            "Deaths": 0,
+            "Serotype": 3
+        }
+    ],
+    "51.31005_1.30053": [
+        {
+            "location": "Ebbsfleet, Thanet",
+            "latitude": 51.31,
+            "longitude": 1.35,
+            "startedOn": "12/12/2023",
+            "endedOn": "2/19/2024",
+            "Susceptible": 22.0,
+            "Cases": 3,
+            "Killed and disposed of": 3,
+            "Deaths": 0,
+            "Serotype": 3
+        },
+        {
+            "location": "Richborough, Sandwich",
+            "latitude": 51.29,
+            "longitude": 1.32,
+            "startedOn": "12/13/2023",
+            "endedOn": "2/19/2024",
+            "Susceptible": 181.0,
+            "Cases": 5,
+            "Killed and disposed of": 5,
+            "Deaths": 0,
+            "Serotype": 3
+        },
+        {
+            "location": "Richborough, Sandwich",
+            "latitude": 51.29,
+            "longitude": 1.32,
+            "startedOn": "12/14/2023",
+            "endedOn": "2/19/2024",
+            "Susceptible": 268.0,
+            "Cases": 4,
+            "Killed and disposed of": 4,
+            "Deaths": 0,
+            "Serotype": 3
+        },
+        {
+            "location": "Ash, Canterbury",
+            "latitude": 51.29,
+            "longitude": 1.28,
+            "startedOn": "12/19/2023",
+            "endedOn": "2/19/2024",
+            "Susceptible": 254.0,
+            "Cases": 4,
+            "Killed and disposed of": 4,
+            "Deaths": 0,
+            "Serotype": 3
+        },
+        {
+            "location": "Sandwich, Kent",
+            "latitude": 51.29,
+            "longitude": 1.32,
+            "startedOn": "1/9/2024",
+            "endedOn": "2/19/2024",
+            "Susceptible": 218.0,
+            "Cases": 1,
+            "Killed and disposed of": 1,
+            "Deaths": 0,
+            "Serotype": 3
+        }
+    ],
+    "51.31924_0.95665": [
+        {
+            "location": "Whitstable, Canterbury",
+            "latitude": 51.33,
+            "longitude": 1.02,
+            "startedOn": "1/24/2024",
+            "endedOn": "2/19/2024",
+            "Susceptible": 147.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 3
+        },
+        {
+            "location": "Faversham, Kent",
+            "latitude": 51.32,
+            "longitude": 0.91,
+            "startedOn": "1/31/2024",
+            "endedOn": "2/19/2024",
+            "Susceptible": 254.0,
+            "Cases": 2,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 3
+        }
+    ],
+    "52.71532_1.22796": [
+        {
+            "location": "Norwich, Norfolk",
+            "latitude": 52.72,
+            "longitude": 1.28,
+            "startedOn": "2/16/2024",
+            "endedOn": "2/19/2024",
+            "Susceptible": 539.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 3
+        }
+    ],
+    "51.12506_m0.08493": [
+        {
+            "location": "Smallfield, Horley",
+            "latitude": 51.17,
+            "longitude": -0.1,
+            "startedOn": "2/18/2024",
+            "endedOn": "4/1/2024",
+            "Susceptible": 690.0,
+            "Cases": 1,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 3
+        }
+    ],
+    "52.38725_1.38036": [
+        {
+            "location": "Beccles, Suffolk",
+            "latitude": 52.38,
+            "longitude": 1.42,
+            "startedOn": "2/16/2024",
+            "endedOn": "2/19/2024",
+            "Susceptible": 174.0,
+            "Cases": 3,
+            "Killed and disposed of": 0,
+            "Deaths": 0,
+            "Serotype": 3
+        }
+    ]
+}

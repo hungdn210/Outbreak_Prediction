@@ -1,0 +1,1 @@
+adding data files from website to folder: & wget.exe -e robots=off --mirror --no-parent -r https://dap.ceda.ac.uk/badc/ukmo-hadobs/data/insitu/MOHC/HadOBS/HadUK-Grid/v1.3.0.ceda/1km/groundfrost/seas/v20240514/

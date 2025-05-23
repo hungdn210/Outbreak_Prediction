@@ -1,5 +1,9 @@
  # General Definition
-DATA_LOCATION = 'data'
+DATA_LOCATION = 'dataset' 
+DATA_LOCATION_NC_DAILY = 'daily_data_nc'
+DATA_LOCATION_CSV_DAILY = 'daily_data_csv'
+DATA_BTV_CASES = 'data_BTV_cases'
+DATA_GRID_POINT = 'grid_point_data'
 # Variables Definition
 DAYS_WITH_GROUND_FROST = 'groundfrost'  # Number of days with ground frost
 RELATIVE_HUMIDITY_SURFACE = 'hurs'      # Relative humidity at the surface level (%)
@@ -11,6 +15,7 @@ DAYS_WITH_SNOW_LYING = 'snowLying'      # Number of days with snow lying on the 
 TOTAL_SUNSHINE_DURATION = 'sun'         # Total sunshine duration (hours)
 NEAR_SURFACE_TEMPERATURE_MIN = 'tasmin'        # Min near-surface air temperature (°C)
 NEAR_SURFACE_TEMPERATURE_MAX = 'tasmax'        # Max near-surface air temperature (°C)
+NEAR_SURFACE_TEMPERATURE = 'tas'
  
 VARIABLE_METADATA = {
     DAYS_WITH_GROUND_FROST: {
