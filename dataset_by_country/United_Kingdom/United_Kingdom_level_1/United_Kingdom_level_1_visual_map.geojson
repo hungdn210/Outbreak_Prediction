@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "United_Kingdom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.32006248749123,
+          52.84166795914305
+        ]
+      }
+    }
+  ]
+}

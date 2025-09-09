@@ -1,0 +1,174 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "east_macedonia_and_thrace"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.122073662858032,
+          41.149883697612026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "central_macedonia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.992252771230213,
+          40.71884921895136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "thessaly"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.22359823094182,
+          39.534047310585166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "north_aegean"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.093477972875423,
+          38.83449910424037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "south_aegean"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.472110450296164,
+          36.72210596193028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "central_greece"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.832388239722125,
+          38.65675872131481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "western_greece"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.58238824372249,
+          38.27738372492163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "peloponnese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.46614492538619,
+          37.34999056126232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "attica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.618180920134183,
+          37.862078850821256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "west_macedonia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.49172497870652,
+          40.37335309274981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "epirus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.789888246258727,
+          39.61188371223419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ionian_islands"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.41117766881253,
+          38.64827006803412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "crete"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.80892437797494,
+          35.220968091329155
+        ]
+      }
+    }
+  ]
+}

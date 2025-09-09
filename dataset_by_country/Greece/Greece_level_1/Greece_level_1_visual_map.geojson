@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Greece"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.43988823,
+          38.26671054
+        ]
+      }
+    }
+  ]
+}

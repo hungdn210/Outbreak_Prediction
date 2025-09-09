@@ -1,0 +1,265 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "piemonte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.917708356657635,
+          45.05438193038715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "valle_d_aostavallee_d_aoste"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.385999400266219,
+          45.74155032062454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "lombardia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.770172979033946,
+          45.61999041667941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "trentino_alto_adigesudtirol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.297741037372582,
+          46.44681616259015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "veneto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.85132368156332,
+          45.63648652577014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "friuli_venezia_giulia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.042519849999946,
+          46.16356786047197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "liguria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.759412094283594,
+          44.26416938228943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "emilia_romagna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.038597954885072,
+          44.52972237515645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "toscana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.127795253924448,
+          43.46499995467139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "umbria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.489018707606553,
+          42.96184020212442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "marche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.135073455941564,
+          43.34155034344195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "lazio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.757455839532437,
+          41.975829635705495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "abruzzo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.85327809896639,
+          42.22361250096313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "molise"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.592110488315654,
+          41.68099480367373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "campania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.829480102068477,
+          40.8614483262046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "puglia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.631316830995946,
+          40.96988369932333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "basilicata"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0772467519066,
+          40.491393137834734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "calabria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.34375706414396,
+          39.04502104000221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "sicilia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.16631019463416,
+          37.61074442801147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "sardegna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.03798352196351,
+          40.07250275547401
+        ]
+      }
+    }
+  ]
+}

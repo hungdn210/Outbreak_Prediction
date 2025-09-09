@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1898610968123866,
+          46.19159293248413
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,720 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "pella"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.149888241906325,
+          40.88202655730148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "euritania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.67766602119535,
+          38.97210594053895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "larisa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.401612379031768,
+          39.69643543556827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "lakonia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.646947063845,
+          36.90576609090313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "heraklio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.09988823246546,
+          35.120717088266204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "evros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.136251865512428,
+          41.17488369737435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "samos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.62131679902501,
+          37.69274087333712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "peiraias_and_islands"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.249888238386,
+          37.137383735759904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "chalkidiki"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.543827631384705,
+          40.29533825119096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "serres"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.53037604236641,
+          41.08646906406858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "kozani"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.701239594693483,
+          40.32555938112477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "imathia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.25465014633296,
+          40.54512179859975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "fthiotida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.470818473437397,
+          38.86848837046463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "chios"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.00544378512297,
+          38.43877261227615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "achaia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.912745385522392,
+          38.05845515557447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "florina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.40988824427454,
+          40.759883701319865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "preveza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.724888246466744,
+          39.241550382421714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "evia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.78012079482864,
+          38.570813954690045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "grevena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.432496939854364,
+          40.03684022993315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "athens"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.823836877189077,
+          38.02467266620728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "kefallonia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.61238824682677,
+          38.2748837249454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "east_attica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.88751840633262,
+          38.02493594410532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "rodopi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.48322156457201,
+          41.10173554992164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "korinthos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.706409979255724,
+          37.91510111967029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "chania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.93065746697657,
+          35.3575760603733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "lesvos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.002937180446192,
+          39.34652934717544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "arkadia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.34761551400081,
+          37.45670191454224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "kastoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.173417656796023,
+          40.479295468693365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "zakynthos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.74988824638673,
+          37.79988372946135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "drama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.18578567128829,
+          41.29860164491608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "kyklades"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.14288186290112,
+          37.11421568666013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "lefkada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.74988824638673,
+          38.674883721142486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "viotia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.08113823892605,
+          38.38113372393525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "lasithio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.84988823006524,
+          35.12766153264463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "rethymno"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6098882340336,
+          35.2698837535147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "magnisia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.97845966782608,
+          39.26059800128824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "argolida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.904433694037014,
+          37.59079282235831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "kavala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.4238012781074,
+          40.88901413487479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ilia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.557295651210204,
+          37.74247632259972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "karditsa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.861426704367958,
+          39.29603756139087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "arta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.12635883341721,
+          39.24988371567581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "agio_oros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.19988823534572,
+          40.27488370593088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "thessaloniki"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.141554905399364,
+          40.69710592413893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "xanthi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.88146718053289,
+          41.17619948683552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "dodekanisa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.503459653344752,
+          36.36416945739676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "kilkis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.785888239870932,
+          41.02588369879093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "mesinia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.946662436105093,
+          37.10472244574783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "thesprotia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.40322158082951,
+          39.54321704622036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "trikala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.613046138361216,
+          39.64725213295057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "kerkyra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.80703110654701,
+          39.64988371187291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "pieria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.443221574300907,
+          40.25655037277185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "west_attica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.404433692436864,
+          38.104429181111406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ioannina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.806251882569992,
+          39.835338255564295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "fokida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.259412051079625,
+          38.5498837223309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "aitoloakarnania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.38738824434655,
+          38.683812292486174
+        ]
+      }
+    }
+  ]
+}

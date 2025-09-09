@@ -1,0 +1,525 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "arnsberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.012995083265041,
+          51.31201952332809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "berlin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.399888269908896,
+          52.48321692319644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "brandenburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.409424352352604,
+          52.46869802299084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "braunschweig"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.346218554910893,
+          52.0397918509596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "bremen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.816554951243575,
+          53.09988358400029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "chemnitz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.757295679372788,
+          50.67951323664101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "darmstadt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.76727958908243,
+          50.054231439043065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "dessau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.376673987469196,
+          51.82309788185332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "detmold"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.784317685066926,
+          51.948916702100114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "dresden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.146078743711344,
+          51.1584550310294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "dusseldorf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.612574858794472,
+          51.42898807749788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "freiburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.20574414238754,
+          48.03366741594991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "gie\u00dfen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.770721618056921,
+          50.65543916279583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "halle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.670783797830598,
+          51.448391062388026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hamburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.031706462506248,
+          53.54079267071755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hannover"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.365677756503766,
+          52.38672569604364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "karlsruhe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.67334507515868,
+          49.01778485737777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "kassel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.468851005341882,
+          51.05701469515608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "koblenz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.507317337180877,
+          50.24153617146734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "koln"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.83217995759416,
+          50.82488360562931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "leipzig"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.709888272117098,
+          51.346247237036216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "luneburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.776682539877426,
+          53.18098406169816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "magdeburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.458051541429466,
+          52.34512168641412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "mecklenburg_vorpommern"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.54585100556132,
+          53.75671587589228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "mittelfranken"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.791646520014275,
+          49.3454880152987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "munster"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.416554955723988,
+          51.95525993896856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "niederbayern"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.768142240184638,
+          48.70702648290718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "oberbayern"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.744119044438612,
+          48.0974797854056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "oberfranken"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.371884786053837,
+          50.04064142587983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "oberpfalz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.125312002801472,
+          49.39564633108185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "rheinhessen_pfalz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.956784839052564,
+          49.4705732736775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "saarland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.999888290390777,
+          49.36863361947426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "schleswig_holstein"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.818902365876143,
+          54.19025916048828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "schwaben"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52188827911934,
+          48.16828363088629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "stuttgart"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.601051072763966,
+          49.0149999019061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "thuringen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.03823615318658,
+          50.89617253015359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "trier"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.674016977760738,
+          49.96731019926533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "tubingen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.48856752770929,
+          48.1470534424089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "unterfranken"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.948953701513648,
+          50.00222006204872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "weser_ems"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.788974582281712,
+          52.95546734171848
+        ]
+      }
+    }
+  ]
+}

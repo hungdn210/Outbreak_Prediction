@@ -1,0 +1,1396 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "torino"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.458862647896283,
+          45.15629391593231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "vercelli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.218070104674057,
+          45.52261092876666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "novara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.568638285370316,
+          45.58113365548299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "cuneo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.567837006521892,
+          44.463986230206565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "asti"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.187983524683762,
+          44.85940747186845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "alessandria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.65778302192713,
+          44.83409418890109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "biella"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.104433741401362,
+          45.58624729179801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "verbano_cusio_ossola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.325888286147189,
+          46.09388365060815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "valle_d_aostavallee_d_aoste"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.385999400266219,
+          45.74155032062454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "varese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.772965207793334,
+          45.81911442245122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "como"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.149888283510146,
+          45.92047188755093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "sondrio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.898606229831978,
+          46.30372980245924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "milano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.113046178364892,
+          45.46567313026492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "bergamo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.79182376532673,
+          45.81439978229753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "brescia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.302519858768754,
+          45.69374330353519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "pavia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.00577063691254,
+          45.10576601294362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "cremona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.987983518923231,
+          45.22131223033248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "mantova"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.778459706869668,
+          45.107026517133306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "lecco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.399888282710071,
+          45.89988365245255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "lodi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.56988828216602,
+          45.23988365872734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "monza_e_della_brianza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2998882830301,
+          45.649883654829374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "bolzanobozen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.434670884893825,
+          46.69227494926692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "trento"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.12031081241548,
+          46.128756889713216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "verona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.01459415989548,
+          45.429295421632446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "vicenza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.47988827605346,
+          45.66988365463922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "belluno"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.15988827387726,
+          46.30238364862589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "treviso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.20655494039458,
+          45.78988365349835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "venezia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.453459701509177,
+          45.499883656255456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "padova"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.788349813527832,
+          45.330652888633615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "rovigo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.916554941322664,
+          44.99750270865077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "udine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.144888270724971,
+          46.24321698252173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "gorizia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.449888269748882,
+          45.84988365292791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "trieste"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.79988826862878,
+          45.699883654354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "pordenone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.668406790768367,
+          46.09062439137987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "imperia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.811426749332076,
+          43.93449905575336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "savona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.314594168536273,
+          44.30282484410679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "genova"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.140364474016812,
+          44.47369318982124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "la_spezia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.749888281589968,
+          44.199883668614895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "piacenza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.62322161532867,
+          44.87655032884832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "parma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.04199354381304,
+          44.668304716793074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "reggio_nell_emilia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.549888279029732,
+          44.58466627365232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "modena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.893221611264298,
+          44.54655033198571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "bologna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.347562695081592,
+          44.44755808486484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ferrara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.882031131909342,
+          44.78916937729811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ravenna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.00226922676264,
+          44.37369319077197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "forli_cesena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.029888274293295,
+          44.04588367007901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "rimini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.439888272981175,
+          43.9498836709917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "massa_carrara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.007031137909893,
+          44.27131223936437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "lucca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.419888279445772,
+          44.00988367042128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "pistoia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8226155508842,
+          43.98624730700963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "firenze"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.297388276637513,
+          43.82238367220389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "livorno"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.503734433023592,
+          43.14988367859752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "pisa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.682031135749693,
+          43.50702653234492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "arezzo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.847185572175295,
+          43.5471809721176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "siena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.490913917043816,
+          43.17808880653449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "grosseto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.253809845404426,
+          42.804785642662765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "prato"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.089888277301574,
+          43.96988367080157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "perugia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.522745415573151,
+          43.059883679453165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "terni"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.38170645498556,
+          42.64988368335114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "pesaro_e_urbino"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.66988827224511,
+          43.69655034006687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ancona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.16893588969563,
+          43.50226462762829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "macerata"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.224888270468949,
+          43.18738367824098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ascoli_piceno"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.54322160278352,
+          42.8898836810694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "fermo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.559888269396849,
+          43.1098836789778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "viterbo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0051514322672,
+          42.43146263279615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "rieti"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.960602557029024,
+          42.360597971815736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "roma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.54655493930648,
+          41.93655035679965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "latina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.097888270875384,
+          41.449883694759855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "frosinone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.552829445890026,
+          41.605766046219024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "l_aquila"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.60174012111476,
+          42.09432813307738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "teramo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.72814913842358,
+          42.63249237916866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "pescara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.965272883484111,
+          42.31142214810744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "chieti"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.389173981028604,
+          42.09631226004266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "campobasso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.763221598879165,
+          41.69655035908139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "isernia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.249888267188645,
+          41.6498836928584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "caserta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.13560255326868,
+          41.217740839824025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "benevento"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.713888265703709,
+          41.22188369692751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "napoli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.342195959200929,
+          40.82680677760668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "avellino"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.084371023138749,
+          40.98091818197705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "salerno"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.238349802486818,
+          40.438345242838345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "foggia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.547185560334212,
+          41.53096477507007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "bari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.73625189559519,
+          40.92488369975116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "taranto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.180323040419093,
+          40.536840225179525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "brindisi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.66807007443128,
+          40.61352006634774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "lecce"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.172468899796527,
+          40.16923854564495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "barletta_andria_trani"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.15613826108809,
+          41.16238369749318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "potenza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.890733332359996,
+          40.5062217319005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "matera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.455602545844,
+          40.46131227558704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "cosenza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.31384736783938,
+          39.57272611608428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "catanzaro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.492745402867985,
+          38.89631229046588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "reggio_di_calabria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.031706443304486,
+          38.22564130117114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "crotone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.933221591934522,
+          39.16655038313476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "vibo_valentia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.149888261108085,
+          38.6114221832843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "trapani"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.727160999334547,
+          37.8635200924927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "palermo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.572110491579956,
+          37.862846691825695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "messina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.92620405449792,
+          38.06304162169628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "agrigento"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.515674850171196,
+          37.452983751432605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "caltanissetta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.068935886815368,
+          37.34035992430634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "enna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.426811343545516,
+          37.56911450088609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "catania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.834736750165446,
+          37.53170191382919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ragusa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.676554932489854,
+          36.9098837379228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "siracusa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.006410003897988,
+          37.09336199704799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "sassari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.970667504862927,
+          40.74858500012858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "nuoro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.367054495349208,
+          40.19402571293171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "cagliari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.111426745171691,
+          39.18065294710325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "oristano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.734263284840267,
+          39.97800870875335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "sud_sardegna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.94819336890139,
+          39.420585611662645
+        ]
+      }
+    }
+  ]
+}

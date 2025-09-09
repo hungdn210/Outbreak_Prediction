@@ -1,0 +1,1721 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "barking_and_dagenham"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1498883123127903,
+          51.549883598736535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "barnet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2501116864070923,
+          51.64988359778585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "barnsley"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.500111682406725,
+          53.54988357972204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "bath_and_north_east_somerset"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.5001116792064315,
+          51.34988360063801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "bedford"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4701116857030282,
+          52.18988359265191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "bexley"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1498883123127903,
+          51.44988359968728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "birmingham"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.88344501451328,
+          52.48321692319644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "blackburn_with_darwen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4834450125931027,
+          53.71655024480417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "blackpool"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.050111677446269,
+          53.84988357686985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "bolton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.500111679206431,
+          53.54988357972205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "bournemouth_christchurch_and_poole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8501116812866223,
+          50.74988360634236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "bracknell_forest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7501116848069458,
+          51.44988359968728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "bradford"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.850111681286622,
+          53.84988357686986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "brent"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2501116864070923,
+          51.549883598736535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "brighton_and_hove"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1501116867271221,
+          50.84988360539162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "bristol_city_of"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.5501116790464167,
+          51.44988359968728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "bromley"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0498883126328181,
+          51.349883600638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "buckinghamshire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.818293502770562,
+          51.790792687355264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "bury"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.316778346459819,
+          53.58321691273845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "calderdale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9501116809665933,
+          53.72488357805826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "cambridgeshire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.008424898131368,
+          52.337688469295465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "camden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1501116867271221,
+          51.549883598736535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "central_bedfordshire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4584450190736981,
+          51.98321692795008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "cheshire_east"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.343445013041144,
+          53.2098835829545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "cheshire_west_and_chester"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.7501116784063577,
+          53.18321691654137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "cornwall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.83096273557681,
+          50.40733041810974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "county_durham"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8017245846672816,
+          54.704722278420114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "coventry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5501116822467111,
+          52.44988359018003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "croydon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0501116870471506,
+          51.349883600638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "cumberland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.126302153392914,
+          54.730835949446806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "darlington"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5501116822467107,
+          54.54988357021478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "derbyshire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6198086517206296,
+          53.14988358352493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "devon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.808648260384583,
+          50.74378604542472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "doncaster"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0945561281490668,
+          53.53877246871656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "dorset"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.3472545368384767,
+          50.80702646294194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "dudley"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.100111680486549,
+          52.44988359018001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ealing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3501116860870631,
+          51.549883598736535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "east_riding_of_yorkshire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.495272975945085,
+          53.85956099613269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "east_sussex"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3044337663636535,
+          50.936247240934186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "enfield"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1001116868871363,
+          51.64988359778582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "essex"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5543327554628931,
+          51.82766137387343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "gateshead"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6501116819266808,
+          54.94988356641187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "gloucestershire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1319298622029037,
+          51.83776238387839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "greenwich"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0498883126328181,
+          51.44988359968728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hackney"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0501116870471506,
+          51.549883598736535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "halton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.650111678726388,
+          53.34988358162347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hampshire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.264695016493461,
+          51.07905026987955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hartlepool"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2501116832067978,
+          54.64988356926407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "havering"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2498883119927605,
+          51.549883598736535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "herefordshire_county_of"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.736318575002224,
+          52.09815945559292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hertfordshire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1974801076281607,
+          51.83409412235028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hillingdon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.450111685767034,
+          51.549883598736535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hounslow"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.450111685767034,
+          51.44988359968728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "isle_of_wight"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.325111682966776,
+          50.6748836070554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "isles_of_scilly"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.350139583606626,
+          49.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "kent"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7430701285962519,
+          51.222610874575295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "kingston_upon_hull_city_of"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3001116862470777,
+          53.74988357782059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "kirklees"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7701116815426463,
+          53.60988357915161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "knowsley"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.850111678086329,
+          53.449883580672775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "lancashire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.613269573581135,
+          53.83672568225811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "leeds"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.500111682406725,
+          53.79988357734523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "leicester"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.100111683686843,
+          52.64988358827858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "leicestershire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1156289250164932,
+          52.660228415766426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "lewisham"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0501116870471506,
+          51.44988359968728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "lincolnshire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2599882295853613,
+          53.131365065182486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "liverpool"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9001116779263136,
+          53.3998835811481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "manchester"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2501116800065053,
+          53.449883580672775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "medway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.549888311032672,
+          51.39988360016264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "middlesbrough"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2501116832067978,
+          54.54988357021477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "milton_keynes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7501116848069455,
+          52.09988359350756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "newcastle_upon_tyne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6501116819266812,
+          55.04988356546114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "newham"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0498883126328181,
+          51.549883598736535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "norfolk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9398883097845576,
+          52.68416930223832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "north_east_lincolnshire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1167783535004649,
+          53.516550246705606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "north_lincolnshire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5801116853509956,
+          53.60988357915159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "north_northamptonshire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.634727069791595,
+          52.41911435970333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "north_somerset"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.8001116782463438,
+          51.399883600162646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "north_tyneside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.500111682406726,
+          55.049883565461165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "north_yorkshire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.428372552201529,
+          54.19249226926477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "northumberland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0815402519745545,
+          55.22702642091986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "nottingham"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1501116835268284,
+          52.949883585426406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "nottinghamshire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0215402553668658,
+          53.13559786937505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "oldham"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.050111680646564,
+          53.54988357972204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "oxfordshire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3206999182750132,
+          51.75576594972035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "peterborough"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2501116864070924,
+          52.63321692177035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "portsmouth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0501116838468576,
+          50.84988360539162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "reading"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9501116841668876,
+          51.44988359968728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "redcar_and_cleveland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0001116840068722,
+          54.54988357021478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "richmond_upon_thames"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3501116860870631,
+          51.44988359968728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "rochdale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.150111680326534,
+          53.64988357877131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "rotherham"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3001116830467832,
+          53.3998835811481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "rutland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6501116851269751,
+          52.674883588040885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "salford"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.450111679366446,
+          53.449883580672775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "sandwell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.000111680806578,
+          52.54988358922931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "sefton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.050111677446269,
+          53.54988357972204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "sheffield"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.500111682406725,
+          53.39988358114813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "shropshire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.726302154673032,
+          52.62845501705373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "solihull"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.750111681606651,
+          52.44988359018003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "somerset"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9205662233153986,
+          51.09988360301482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "south_gloucestershire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4751116792864383,
+          51.54988359873655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "south_tyneside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4501116825667404,
+          54.94988356641189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "southend_on_sea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6998883105526285,
+          51.54988359873656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "st_helens"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.700111678566373,
+          53.449883580672754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "staffordshire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.03119276178819,
+          52.85528899173113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "stockport"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1501116803265337,
+          53.34988358162347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "stockton_on_tees"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3501116828867683,
+          54.54988357021477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "stoke_on_trent"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1501116803265337,
+          53.04988358447566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "suffolk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0458883094453262,
+          52.23988359217654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "sunderland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4501116825667404,
+          54.84988356736258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "surrey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3819298678034176,
+          51.24079269258425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "sutton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1501116867271221,
+          51.349883600638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "swindon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7501116816066515,
+          51.57488359849887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "tameside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.100111680486549,
+          53.449883580672754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "telford_and_wrekin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.490111679238434,
+          52.72988358751798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "thurrock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3998883115127164,
+          51.54988359873656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "trafford"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.350111679686476,
+          53.449883580672775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "wakefield"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4001116827267546,
+          53.64988357877131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "walsall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9501116809665933,
+          52.64988358827858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "wandsworth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2001116865671072,
+          51.44988359968727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "warrington"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.550111679046416,
+          53.3998835811481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "warwickshire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.567353061501878,
+          52.30505600535004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "west_berkshire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3215402544067778,
+          51.44988359968728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "west_northamptonshire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.037611683886861,
+          52.23113359225974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "west_sussex"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4821116856646243,
+          50.96588360428879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "westmorland_and_furness"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.718739129487151,
+          54.48909925706719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "wigan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.650111678726388,
+          53.54988357972204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "wiltshire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9222047043117172,
+          51.31267429866617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "windsor_and_maidenhead"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6501116851269751,
+          51.483216932703705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "wirral"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.100111677286256,
+          53.34988358162348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "wokingham"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8501116844869152,
+          51.44988359968728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "worcestershire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.169159299313196,
+          52.216550259065045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "york"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0501116838468578,
+          53.97488357568146
+        ]
+      }
+    }
+  ]
+}

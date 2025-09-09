@@ -1,0 +1,213 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "baden_wurttemberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.032213865282086,
+          48.545232464511855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "bayern"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.404414511159498,
+          48.94392554478301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "berlin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.399888269908896,
+          52.48321692319644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "brandenburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.407541331108892,
+          52.47131216140487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "bremen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.78988828466225,
+          53.08988358409538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hamburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.031706462506248,
+          53.54079267071755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hessen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.033962357955216,
+          50.60432805217064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "mecklenburg_vorpommern"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.537751191830678,
+          53.75589973083183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "niedersachsen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.171249042935456,
+          52.76934561245927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "nordrhein_westfalen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.568935907617277,
+          51.4804958442942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "rheinland_pfalz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.435313390211863,
+          49.91020750096504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "saarland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.999888290390777,
+          49.36863361947426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "sachsen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.356499840295688,
+          51.044924925851376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "sachsen_anhalt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.69655494202673,
+          52.015068779499096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "schleswig_holstein"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.80822161473662,
+          54.19571690691527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "thuringen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.04066497648823,
+          50.89745642047332
+        ]
+      }
+    }
+  ]
+}

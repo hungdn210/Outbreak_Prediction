@@ -1,0 +1,330 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "zurich"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.644888285126292,
+          47.4098836380966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "bern"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.632080069189496,
+          46.81426720540311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "luzern"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.138123580865738,
+          47.04988364151921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "uri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.608221618576971,
+          46.74155031111728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "schwyz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.777161011975709,
+          47.04079273251472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "obwalden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.274888286310402,
+          46.87488364318298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "nidwalden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.424888285830358,
+          46.92488364270763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "glarus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.049888283830173,
+          46.98321697548637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "zug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.54988828543032,
+          47.14988364056848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "fribourg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.060999401306314,
+          46.7221058668577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "solothurn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.637388288350589,
+          47.31238363902356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "basel_landschaft"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6927454310305725,
+          47.4498836377163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "schaffhausen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.599888285270307,
+          47.74988363486413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "appenzell_ausserrhoden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.39988828271007,
+          47.39988363819166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "appenzell_innerrhoden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.383221616096746,
+          47.316550305650615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "st_gallen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.26588828313891,
+          47.22188363988397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "graubunden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.639393232438634,
+          46.668695756734806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "aargau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.144332731172664,
+          47.39988363819167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "thurgau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.069888283766169,
+          47.57655030317871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ticino"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.815513284580243,
+          46.30300864861995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "vaud"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6877261292276255,
+          46.585018781073934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "valais"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.612183370398466,
+          46.20726069871056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "neuchatel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.805443846568611,
+          47.0165503085028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "geneve"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.149888293111027,
+          46.21655031610858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "jura"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.199888289750718,
+          47.34988363866704
+        ]
+      }
+    }
+  ]
+}

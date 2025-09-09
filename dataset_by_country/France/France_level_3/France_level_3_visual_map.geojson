@@ -1,0 +1,1240 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.355602581367259,
+          46.09988365055111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "aisne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.571674550381308,
+          49.54988361775108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "allier"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1864736684484827,
+          46.39988364769893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "alpes_de_haute_provence"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.235430461511966,
+          44.105305356261056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hautes_alpes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.269585262424931,
+          44.68624730035454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "alpes_maritimes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.106138290050745,
+          43.93113367116997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "corse_du_sud"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.96696145482727,
+          41.8742739346275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "haute_corse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.214703098117532,
+          42.37951331555125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ardeche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.434263298601531,
+          44.75769616331163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ardennes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.634480780438627,
+          49.61937002192428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ariege"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4832216413790644,
+          42.91851113177763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "aube"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.162775861044383,
+          48.29212712200818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "aude"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4005925304619877,
+          43.0808695947466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "aveyron"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.686251940559317,
+          44.27816649615347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "bouches_du_rhone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.083221629858006,
+          43.53935735910521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "calvados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3619962650214769,
+          49.09453808074529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "cantal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.660657535046821,
+          45.05142212205755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "charente"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1935502840040446,
+          45.71326393591694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "charente_maritime"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6781604655250155,
+          45.76451780008098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "cher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.496554971469433,
+          47.06099475252469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "correze"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8782465157367596,
+          45.35734634417776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "cote_d_or"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.762851260512916,
+          47.43414289712522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "cotes_d_armor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.8717025871081403,
+          48.444201810081246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "creuse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.018750247364672,
+          46.0834165848394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "dordogne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7460421565587684,
+          45.108537506129935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "doubs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.351527636728016,
+          47.15316232906191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "drome"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.174563620907676,
+          44.6706628849183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "eure"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9882444740133652,
+          49.12248636154048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "eure_et_loir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3623883084324333,
+          48.401272517560095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "finistere"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.062457353218812,
+          48.263463876894974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "gard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.190513299381602,
+          43.99675867054605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "haute_garonne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1904288495232949,
+          43.36069448740409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "gers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.4498883113527016,
+          43.68845510204861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "gironde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5921284920352274,
+          44.8397996289176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "herault"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.359610524262958,
+          43.58043923005967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ille_et_vilaine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.640111681958684,
+          48.15363363102558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "indre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5929262823781882,
+          46.76760516319025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "indre_et_loire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7058883105334263,
+          47.253883639579726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "isere"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.569428524853725,
+          45.275171014713706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "jura"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.705001613549314,
+          46.72715610741989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "landes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7867202425344784,
+          43.96636563014596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "loir_et_cher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4283693208795023,
+          47.62583300313212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "loire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.160414615267401,
+          45.753392425775104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "haute_loire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8111786231762297,
+          45.1385933371097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "loire_atlantique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6903555842369131,
+          47.36085924831878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "loiret"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3460908369298656,
+          47.91570641809774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "lot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6007079798008876,
+          44.62201481214257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "lot_et_garonne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.4449702785815555,
+          44.36463776540919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "lozere"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.500735759216212,
+          44.51598536052488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "maine_et_loire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5842293323966415,
+          47.39576599117199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "manche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3319298647631383,
+          49.09403946624074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "marne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.236026913097332,
+          48.92909154444517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "haute_marne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.223499407186854,
+          48.119328075796176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "mayenne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6612227962025273,
+          48.14988363106123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "meurthe_et_moselle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.16958526274496,
+          48.79079271587703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "meuse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.374888295591255,
+          48.99330467567418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "morbihan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.8020104124174816,
+          47.85874439332283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "moselle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.647290888921789,
+          49.04339011607293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "nievre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.512851264513283,
+          47.119019443331055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "nord"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.207783039368733,
+          50.4511993986557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "oise"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4238609077751354,
+          49.41837676968627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "orne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1203253959196092,
+          48.62410619691067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "pas_de_calais"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.284412115005496,
+          50.49274075164423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "puy_de_dome"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.139581530146314,
+          45.73584856629279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "pyrenees_atlantiques"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7542374215324453,
+          43.25518796772366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hautes_pyrenees"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1698883122487839,
+          43.051883679529226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "pyrenees_orientales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.489423188546521,
+          42.58244182352722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "bas_rhin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.551583203879429,
+          48.658358202498206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "haut_rhin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.266554956204032,
+          47.85940744334666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "rhone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.644332742373691,
+          45.87488365269024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "haute_saone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.102127099234026,
+          47.63943587472015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "saone_et_loire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.561888298193093,
+          46.64888364533162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "sarthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2178370300440519,
+          47.99988363248732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "savoie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.449888292150939,
+          45.478650779745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "haute_savoie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.42347319789585,
+          46.036676103982224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "paris"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.299888305432157,
+          48.84988362440615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "seine_maritime"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0258376765981017,
+          49.65874437620977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "seine_et_marne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.922491043165673,
+          48.626595955296125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "yvelines"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8350734921048868,
+          48.8239576987267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "deux_sevres"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3278894639359586,
+          46.57488364603517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "somme"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2966415521957955,
+          49.94988361394817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "tarn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.163950805867197,
+          43.77957117261092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "tarn_et_garonne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3022692610057844,
+          44.0975027172073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "var"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.239440531630402,
+          43.43645084005215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "vaucluse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.160699107087534,
+          44.00393772453185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "vendee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2792256071642585,
+          46.6612760502771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "vienne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.4584248966912356,
+          46.57061535339281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "haute_vienne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2345036934570863,
+          45.90065288321447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "vosges"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.349888292470967,
+          48.1971058528345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "yonne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5476703933067046,
+          47.85117749106671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "territoire_de_belfort"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.924888290630799,
+          47.612383636171366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "essonne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.210757870934793,
+          48.52814449703022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "seine_saint_denis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4748883048721058,
+          48.9248836236931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "val_de_marne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.449888304952113,
+          48.77488362511919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "val_d_oise"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1311383059722075,
+          49.087383622148174
+        ]
+      }
+    }
+  ]
+}

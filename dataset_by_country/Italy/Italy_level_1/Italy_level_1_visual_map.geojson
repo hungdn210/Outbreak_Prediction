@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.539955424603267,
+          41.28321702951927
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,4828 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ahrweiler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.040797381168947,
+          50.46806542720349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "aichach_friedberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.074888277349578,
+          48.41238362856557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "alb_donau_kreis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.831138281329943,
+          48.39363362874383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "altenburger_land"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.392745415989191,
+          50.96416931859081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "altenkirchen_westerwald"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.763401801460822,
+          50.74718404941419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "altmarkkreis_salzwedel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.212388276909538,
+          52.66238358815973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "altotting"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.716554938762426,
+          48.18321696407766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "alzey_worms"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.183221619937095,
+          49.76099472685509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "amberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.849888274869354,
+          49.44988361870181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "amberg_sulzbach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.823221608288026,
+          49.4432169520985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ammerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.012388287150479,
+          53.212383582930734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "anhalt_bitterfeld"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.154888273893262,
+          51.81488359621713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ansbach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.468406797809015,
+          49.24617991693475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "aschaffenburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.239888283222117,
+          49.97988361366294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "augsburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.756554945035006,
+          48.369883628969625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "aurich"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.381138289170665,
+          53.51238358007856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "bad_durkheim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.11238828683045,
+          49.43738361882063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "bad_kissingen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.924888281029917,
+          50.20613361151194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "bad_kreuznach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.668070106434217,
+          49.822610887885446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "bad_tolz_wolfratshausen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.489888276021455,
+          47.72988363505428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "baden_baden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.24988828639041,
+          48.74988362535687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "bamberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.843221611424314,
+          49.8898836145186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "barnim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.707739508593102,
+          52.84327297827239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "bautzen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.242480859804946,
+          51.2609947125942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "bayreuth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.562388275789438,
+          49.85613361483946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "berchtesgadener_land"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.894332715971268,
+          47.70543919084224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "bergstra\u00dfe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.694332729412501,
+          49.59432806177296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "berlin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.40313502314526,
+          52.494037922075535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "bernkastel_wittlich"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.983221623777448,
+          49.92321694753503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "biberach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.743221614944636,
+          48.12321696464808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "bielefeld"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.529888285494327,
+          52.00988359436321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "birkenfeld"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.237388289630707,
+          49.71238361620614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "boblingen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.960999395225755,
+          48.6943280703295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "bochum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.199888289750717,
+          51.44988359968727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "bodenseekreis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.407031139830067,
+          47.749883634864126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "bonn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.083221623457419,
+          50.71655027332593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "borde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.387819310830864,
+          52.21195255795933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "borken"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.891993553893967,
+          51.95514675277835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "bottrop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.949888290550791,
+          51.549883598736535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "brandenburg_an_der_havel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.51655493940249,
+          52.41655025716359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "braunschweig"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.499888279189747,
+          52.249883592081474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "breisgau_hochschwarzwald"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.922110509661616,
+          47.92766141095173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "bremen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.78988828466225,
+          53.08988358409538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "burgenlandkreis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.883221608096008,
+          51.16655026904766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "calw"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.63877717403474,
+          48.66099473731308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "celle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.089888280501867,
+          52.70488358775567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "cham"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.692745415029105,
+          49.23559790645335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "chemnitz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.899888271509043,
+          50.849883605391625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "cloppenburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.879888287574517,
+          52.929883585616544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "coburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.93560256350962,
+          50.29274075354569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "cochem_zell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.199888289750718,
+          50.14988361204672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "coesfeld"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.380657519941435,
+          51.84988359588438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "cottbus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.383221600095272,
+          51.78321692985154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "cuxhaven"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.821316855990242,
+          53.6105978648591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "dachau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.366554943082829,
+          48.33321696265157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "dahme_spreewald"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.79988826862878,
+          52.03113359416118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "darmstadt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.64988828511029,
+          49.84988361489887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "darmstadt_dieburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.769888284726257,
+          49.86988361470874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "deggendorf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.022615543843552,
+          48.76806544336584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "delmenhorst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.64988828511029,
+          53.04988358447566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "dessau_ro\u00dflau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.216554940362576,
+          51.88321692890081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "diepholz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.722965207953347,
+          52.71142204923197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "dillingen_ad_donau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.529888279093738,
+          48.60988362668788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "dingolfing_landau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.660999383384668,
+          48.62766140429664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "dithmarschen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.097256704731214,
+          54.14462041617298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "donau_ries"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.708711807933216,
+          48.80282480132413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "donnersbergkreis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.938777176274946,
+          49.62766139478939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "dortmund"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.483221622177301,
+          51.51655026572013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "dresden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.809888268596776,
+          51.06988360330003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "duisburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.749888291190851,
+          51.39988360016263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "duren"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.449888292150939,
+          50.8082169391211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "dusseldorf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.799888291030836,
+          51.24988360158873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ebersberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.929888274613328,
+          48.08988363163167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "eichsfeld"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.258221613296486,
+          51.37488360040032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "eichstatt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.37131684782949,
+          48.89274076685584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "eifelkreis_bitburg_prum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.402269244684286,
+          50.078455041297225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "eisenach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.349888279669791,
+          50.949883604440906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "elbe_elster"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.466554936362208,
+          51.6082169315153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "emden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.149888289910734,
+          53.34988358162349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "emmendingen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8498882876705265,
+          48.14988363106123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "emsland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.402666066879547,
+          52.72488358756553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ennepe_ruhr_kreis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.32034346953619,
+          51.33283550081456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "enzkreis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.721316856310272,
+          48.93559790930553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "erding"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.999888274389308,
+          48.29988362963515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "erfurt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.016554944202928,
+          50.98321693745733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "erlangen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.949888277749611,
+          49.54988361775106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "erlangen_hochstadt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.921316849269624,
+          49.63559790265043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "erzgebirgskreis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.957295678732727,
+          50.61284657060817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "essen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.999888290390777,
+          51.44988359968727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "esslingen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4165549493234,
+          48.63877251530212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "euskirchen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6713168628708726,
+          50.542740751168864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "forchheim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.16099938818511,
+          49.72766139383867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "frankenthal_pfalz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.349888286070378,
+          49.54988361775106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "frankfurt_am_main"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.699888284950278,
+          50.14988361204672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "frankfurt_oder"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.499888266388572,
+          52.34988359113074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "freiburg_im_breisgau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8498882876705265,
+          48.04988363201195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "freising"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.74988827518938,
+          48.44988362820905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "freudenstadt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.479888285654342,
+          48.47988362792383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "freyung_grafenau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.507031126708863,
+          48.835597910256254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.974888287270489,
+          53.48738358031624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "fulda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.791064752046427,
+          50.56753066689957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "furstenfeldbruck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.17845970558955,
+          48.19274077351091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "furth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.849888278069646,
+          49.44988361870178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "garmisch_partenkirchen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.149888277109556,
+          47.54079272776109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "gelsenkirchen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.049888290230763,
+          51.549883598736535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "gera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.08322160745595,
+          50.91655027142447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "germersheim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.269888286326404,
+          49.149883621553975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "gie\u00dfen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.783221618016919,
+          50.55821694149791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "gifhorn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.58322161225639,
+          52.57369311281246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "goppingen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.716554948363312,
+          48.666550292815806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "gorlitz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.740210846264633,
+          51.22730295664213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "goslar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.396042125675931,
+          51.88065282636108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "gotha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.683221611936364,
+          50.89988360491627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "gottingen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.080323063141174,
+          51.56727490291903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "grafschaft_bentheim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.029888290294768,
+          52.4798835898948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "greiz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.08988827410128,
+          50.73988360643743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "gro\u00df_gerau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.483221618977007,
+          49.91655028093173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "gunzburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.35988827963779,
+          48.359883629064704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "gutersloh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.313524649823119,
+          51.922610867920206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hagen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.49988828879063,
+          51.349883600638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "halle_saale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.949888274549323,
+          51.44988359968728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hamburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.031706462506248,
+          53.54079267071755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hameln_pyrmont"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.399888282710071,
+          52.09988359350756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hamm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.849888287670527,
+          51.64988359778581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "harburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.943221614304578,
+          53.30321691540049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "harz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.960233105302716,
+          51.815400837591525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "havelland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.602062185505652,
+          52.628144458050464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ha\u00dfberge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.622615551524255,
+          50.07715634001087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "heidekreis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.753888281577169,
+          52.9218835856926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "heidelberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.749888284790265,
+          49.44988361870181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "heidenheim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.14988828030985,
+          48.6641693404575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "heilbronn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.174888283430136,
+          49.17488362131629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "heinsberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.212388292911007,
+          51.037383603609015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "helmstedt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.904433732440538,
+          52.2862472280994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "herford"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.635602570870297,
+          52.17845502133198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "herne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.199888289750717,
+          51.54988359873656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hersfeld_rotenburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.75758058925766,
+          50.919114373964206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "herzogtum_lauenburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.594332723331943,
+          53.61099469025215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hildburghausen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.731706460266045,
+          50.44079270019005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hildesheim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.924888281029917,
+          52.087383593626406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hochsauerlandkreis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.368406804529634,
+          51.29432804561063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hochtaunuskreis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.499888285590336,
+          50.29988361062063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hof"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.799888275029364,
+          50.2748836108583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hohenlohekreis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.599888282070012,
+          49.24988362060325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "holzminden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.57488828215002,
+          51.87488359564669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hoxter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.202829459811303,
+          51.702824773753086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ilm_kreis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.983221610976273,
+          50.74155027308825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ingolstadt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.399888276309488,
+          48.74988362535687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "jena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.599888275669423,
+          50.94988360444089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "jerichower_land"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.007783011206149,
+          52.25514674992617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "kaiserslautern"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.709888288118567,
+          49.43988361879686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "karlsruhe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.516554952203663,
+          49.06321695571127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "kassel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.416554949323398,
+          51.37210582264896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "kaufbeuren"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.649888278709703,
+          47.849883633913386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "kelheim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.834821312252512,
+          48.81837645655078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "kempten_allgau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.349888279669791,
+          47.74988363486412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "kiel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.049888280629878,
+          54.34988357211622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "kitzingen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.25988827995782,
+          49.73988361594469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "kleve"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.277887175626098,
+          51.65788266647685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "koblenz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.599888288470599,
+          50.349883610145255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "koln"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.949888290550791,
+          50.93321693793269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "konstanz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.880655366777729,
+          47.80372799795087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "krefeld"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.599888291670894,
+          51.349883600638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "kronach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3498882764695,
+          50.33559789599536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "kulmbach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.489888276021455,
+          50.09988361252208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "kusel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.474888288870637,
+          49.56238361763223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "kyffhauserkreis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.924888277829623,
+          51.32488360087569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "lahn_dill_kreis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.34988828607038,
+          50.65821694054719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "landsberg_am_lech"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.960999388825169,
+          48.027661410001016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "landshut"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.21304616844398,
+          48.549883627258325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "leer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.506138288770628,
+          53.24363358263364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "leipzig"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.562388272589144,
+          51.24155026833461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "leverkusen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.999888290390777,
+          51.049883603490194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "lichtenfels"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.09988827726957,
+          50.09988361252207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "limburg_weilburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.183221619937097,
+          50.46099472020001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "lindau_bodensee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.929888281013916,
+          47.60988363619514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "lippe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.943221617504872,
+          51.98321692795006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "lorrach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.758979197052373,
+          47.68624727183278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "lubeck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.749888278389676,
+          53.89988357639448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "luchow_dannenberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.149888277109556,
+          53.03113358465392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ludwigsburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.09988828367016,
+          48.94988362345543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ludwigslust_parchim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.517052455039,
+          53.44540596877504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "luneburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.56655494564306,
+          53.24432802707147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "magdeburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.649888275509408,
+          52.09988359350756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "main_kinzig_kreis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.287388283070106,
+          50.23113361127425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "main_spessart"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.642745424789998,
+          49.9855978993229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "main_tauber_kreis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.669888281845989,
+          49.56988361756092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "main_taunus_kreis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.449888285750351,
+          50.1248836122844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "mainz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.24988828639041,
+          49.949883613948174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "mainz_bingen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.049888287030468,
+          49.93559789979828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "mannheim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.483221618977007,
+          49.48321695171822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "mansfeld_sudharz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.379888276373489,
+          51.529883598926695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "marburg_biedenkopf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.733221618176934,
+          50.844328049888894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "markisch_oderland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.142195959840986,
+          52.61526820399228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "markischer_kreis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.711426749652107,
+          51.29603744730378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "mayen_koblenz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.299888289430688,
+          50.3373836102641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "mecklenburgische_seenplatte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.984992197333684,
+          53.55334805178477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "mei\u00dfen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.523572480039384,
+          51.24988360158873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "memmingen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.149888280309847,
+          47.94988363296269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "merzig_wadern"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7498882911908495,
+          49.499883618226434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "mettmann"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.955082370338781,
+          51.29144506611212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "miesbach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.816554941642693,
+          47.74988363486413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "miltenberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.19988828335013,
+          49.74988361584962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "minden_lubbecke"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.723221618208935,
+          52.36321692433732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "mittelsachsen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.105888270849778,
+          50.969883604250754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "monchengladbach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.399888292310951,
+          51.14988360253947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "muhldorf_a_inn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.349888273269205,
+          48.222610903097056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "mulheim_an_der_ruhr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.849888290870822,
+          51.44988359968728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "munchen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.64274541838941,
+          48.099883631536585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "munster"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.616554955083928,
+          51.98321692795007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "neckar_odenwald_kreis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.257580590857806,
+          49.47296054155931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "neu_ulm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.133221613696522,
+          48.29988362963514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "neuburg_schrobenhausen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.199888276949542,
+          48.64988362630759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "neumarkt_id_opf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.569888275765432,
+          49.20321695438025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "neunkirchen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.099888290070749,
+          49.34988361965252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "neustadt_ad_aisch_bad_windsheim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.506138279169743,
+          49.56238361763223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "neustadt_ad_waldnaab"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.060999385304845,
+          49.67766139431403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "neustadt_an_der_weinstra\u00dfe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.099888286870453,
+          49.34988361965252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "neuwied"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.509462756845095,
+          50.547753472249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "nienburg_weser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.12635887182074,
+          52.59106005942604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "nordfriesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.912851247231696,
+          54.63506875459008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "nordhausen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.72766605623857,
+          51.49432804370917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "nordsachsen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.783221605215743,
+          51.468402118029736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "nordwestmecklenburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.235073462022124,
+          53.82395765119042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "northeim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.838123575425236,
+          51.72635418529409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "nurnberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.083221610656242,
+          49.41655028568537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "nurnberger_land"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.359888276437497,
+          49.47988361841658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "oberallgau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.283221613216478,
+          47.560994747771055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "oberbergischer_kreis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.549888288630614,
+          50.98834514253678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "oberhausen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.849888290870822,
+          51.549883598736535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "oberhavel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.20443372507986,
+          52.9016310235255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "oberspreewald_lausitz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.963221601439397,
+          51.62321693137269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "odenwaldkreis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.978459712630194,
+          49.66416933095024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "oder_spree"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.216554933961987,
+          52.25594419808446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "offenbach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.799888284630248,
+          50.04988361299743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "oldenburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.392745428790366,
+          52.98559787080114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "oldenburg_oldb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.199888286550424,
+          53.14988358352495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "olpe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.938777176274946,
+          51.07210582550114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ortenaukreis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.01655495380381,
+          48.41655029519263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "osnabruck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.046440011179435,
+          52.37746979776502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ostalbkreis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.094332724932087,
+          48.883216957422576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ostallgau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.644005925787354,
+          47.76753069351988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "osterholz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.827666062319128,
+          53.22766136056326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ostholstein"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.849888278069644,
+          54.19725199461997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ostprignitz_ruppin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.64155493900245,
+          53.008216918205136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "paderborn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.73812357894556,
+          51.67929536221208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "passau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.338777158993356,
+          48.538772516252855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "peine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.221316851509831,
+          52.292740734531165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "pfaffenhofen_ad_ilm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.54988827582944,
+          48.59988362678296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "pforzheim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.699888284950278,
+          48.84988362440615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "pinneberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.749888281589968,
+          53.71655024480416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "plon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.371316851029787,
+          54.24988357306696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "potsdam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.01655493780234,
+          52.41655025716359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "potsdam_mittelmark"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.684173986485106,
+          52.24131216359153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "prignitz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.980657505220083,
+          53.10757589161947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "rastatt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.24988828639041,
+          48.77210584736782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ravensburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.764173995829966,
+          47.84512172919678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "recklinghausen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.149888289910732,
+          51.679883597500606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "regen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.095342816338077,
+          49.02261089549126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "regensburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.093250117228123,
+          49.02952984637351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "region_hannover"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7223020747817,
+          52.42574565937503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "regionalverband_saarbrucken"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.969888290486787,
+          49.24988362060324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "rems_murr_kreis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.503734436223889,
+          48.90372977774037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "remscheid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.149888289910733,
+          51.14988360253948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "rendsburg_eckernforde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.795049571768017,
+          54.2756900244345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "reutlingen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.366554949483412,
+          48.3915502954303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "rhein_erft_kreis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.687388291390868,
+          50.89988360491626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "rhein_hunsruck_kreis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.496042134956784,
+          50.04988361299744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "rhein_kreis_neuss"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.692745434230866,
+          51.13559788838956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "rhein_lahn_kreis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.83988828770253,
+          50.26988361090584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "rhein_neckar_kreis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.766554951403592,
+          49.34988361965252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "rhein_pfalz_kreis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.349888286070382,
+          49.39988361917714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "rhein_sieg_kreis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.265272904926084,
+          50.749883606342365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "rheingau_taunus_kreis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.099888286870454,
+          50.14988361204671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "rheinisch_bergischer_kreis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.233221622977376,
+          51.016550270473736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "rhon_grabfeld"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.269888279925816,
+          50.36988360995512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "rosenheim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.160999384984816,
+          47.85543918941615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "rostock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.226971606995908,
+          53.935300242724445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "rotenburg_wumme"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.294715869253553,
+          53.25333185840351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "roth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.124888277189566,
+          49.199883621078605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "rottal_inn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.84274541454906,
+          48.41416934283431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "rottweil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.527666063279217,
+          48.260994741115965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "saale_holzland_kreis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.739888275221382,
+          50.91988360472613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "saale_orla_kreis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.699888275349394,
+          50.59988360776845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "saalekreis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.885182392403458,
+          51.42047183526102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "saalfeld_rudolstadt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.30373443046336,
+          50.619114376816384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "saarlouis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.799888291030835,
+          49.36655028616072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "saarpfalz_kreis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.249888289590705,
+          49.23559790645335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "sachsische_schweiz_osterzgebirge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.84572160181543,
+          50.91655027142447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "salzgitter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.349888279669791,
+          52.12488359326986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "salzlandkreis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.655151433387305,
+          51.839357280194974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "schaumburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.194332727812354,
+          52.26099470308695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "schleswig_flensburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.51195724786866,
+          54.62919391428834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "schmalkalden_meiningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.40322161283244,
+          50.62988360748323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "schwabisch_hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9145941634158,
+          49.16164832732447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "schwalm_eder_kreis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.349888282870086,
+          51.01655027047375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "schwandorf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.263221606879895,
+          49.38321695266895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "schwarzwald_baar_kreis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.37296520907345,
+          48.042191324392775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "schweinfurt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.240797370928004,
+          50.022610885984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "schwerin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.416554942922817,
+          53.61655024575487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "segeberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.172110502460956,
+          53.95543913142187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "siegen_wittgenstein"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.185602572310428,
+          50.92131217614112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "sigmaringen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.189888283382134,
+          48.04988363201195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "soest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.227666064239305,
+          51.55543915423929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "solingen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.049888290230763,
+          51.14988360253948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "sommerda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.174888277029549,
+          51.16655026904767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "sonneberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.129888277173562,
+          50.38988360976496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "speyer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.44988828575035,
+          49.3498836196525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "spree_nei\u00dfe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.419888266644596,
+          51.74488359688264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "st_wendel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.149888289910734,
+          49.499883618226434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "stade"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.414594165015949,
+          53.58517769703354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "stadteregion_aachen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2098882929190085,
+          50.719883606627576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "starnberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.269888276725524,
+          48.00988363239225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "steinburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.489888282422042,
+          53.91655024290271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "steinfurt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.549888288630616,
+          52.21388359242373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "stendal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.840797365807536,
+          52.70442904230544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "stormarn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.299888279829808,
+          53.739883577915656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "straubing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.549888272629149,
+          48.84988362440613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "straubing_bogen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5675353313962,
+          48.885177741717655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "stuttgart"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.183221616736802,
+          48.7832169583733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "sudliche_weinstra\u00dfe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.060999398106022,
+          49.16099473255944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "sudwestpfalz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.674888288230578,
+          49.1915502878245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "suhl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.749888278389676,
+          50.6498836072931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "teltow_flaming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.26527288572432,
+          52.06526820922128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "tirschenreuth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.172965196912331,
+          49.90372976823311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "traunstein"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5832216058558,
+          47.90543918894078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "trier"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.64988829151088,
+          49.74988361584961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "trier_saarburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.674888291430872,
+          49.69988361632498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "tubingen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.999888283990188,
+          48.49988362773368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "tuttlingen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.777163043155522,
+          48.01897411819546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "uckermark"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.832388268524769,
+          53.2098835829545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "uelzen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.518070097313378,
+          52.98624722144432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ulm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.949888280949912,
+          48.3998836286844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "unna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.599888288470601,
+          51.58321693175297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "unstrut_hainich_kreis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.541554945723068,
+          51.174883602301776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "unterallgau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.381138279569784,
+          48.03738363213079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "vechta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.233221619777082,
+          52.6748835880409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "verden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.169888283446138,
+          52.969883585236246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "viersen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.349888292470967,
+          51.28738360123221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "vogelsbergkreis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.284888283078104,
+          50.62988360748322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "vogtlandkreis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.22988827365324,
+          50.44488360924208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "vorpommern_greifswald"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.793524632285507,
+          53.78261085023672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "vorpommern_rugen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.034994654055389,
+          54.30094740236872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "vulkaneifel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.766554957804178,
+          50.241550277841874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "waldeck_frankenberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.89274542719022,
+          51.20702645913904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "waldshut"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.229888286454415,
+          47.70321696864114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "warendorf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.928835655838926,
+          51.870936227263165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "wartburgkreis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.212388280109831,
+          50.89363360497568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "weiden_id_opf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.19988827374925,
+          49.649883616800345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "weilheim_schongau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.042195969761895,
+          47.78065286534084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "weimar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3498882764695,
+          50.949883604440906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "weimarer_land"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.369888276405494,
+          50.979883604155695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "wei\u00dfenburg_gunzenhausen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.904433732440538,
+          49.03170180449574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "werra_mei\u00dfner_kreis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.949888280949908,
+          51.18065283301616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "wesel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.642195983843188,
+          51.61911436730913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "wesermarsch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.391554952603702,
+          53.366550248131695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "westerwaldkreis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.849888287670527,
+          50.54988360824381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "wetteraukreis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.943221617504873,
+          50.34988361014526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "wiesbaden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.299888286230395,
+          50.04988361299745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "wilhelmshaven"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.099888286870453,
+          53.54988357972205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "wittenberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.709888272117098,
+          51.80988359626466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "wittmund"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.694332732612795,
+          53.57210580173298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "wolfenbuttel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6276660565586,
+          52.11655026001577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "wolfsburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.816554944842988,
+          52.41655025716359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "worms"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.349888286070378,
+          49.64988361680036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "wunsiedel_i_fichtelgebirge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.049888274229293,
+          50.08738361264091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "wuppertal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.149888289910734,
+          51.24988360158872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "wurzburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.909888281077922,
+          49.72321694943648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "zollernalbkreis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.948395746841548,
+          48.27525850104747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "zweibrucken"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.349888289270672,
+          49.24988362060324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "zwickau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.524888272709152,
+          50.75821693959647
+        ]
+      }
+    }
+  ]
+}

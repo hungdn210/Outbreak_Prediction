@@ -1,0 +1,174 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ile_de_france"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.497539311511026,
+          48.71162859216353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "centre_val_de_loire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.687230079544743,
+          47.48279502980847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "bourgogne_franche_comte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.81215957244112,
+          47.24265154083192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "normandie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0952937178929139,
+          49.126370108264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "hauts_de_france"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.780848925246766,
+          49.970242001011954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "grand_est"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.615838564027436,
+          48.692102261081295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "pays_de_la_loire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.811351994688478,
+          47.48295857280237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "bretagne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.848587287847305,
+          48.18768850875058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "nouvelle_aquitaine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2047362174863013,
+          45.21138600641611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "occitanie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.139766354725083,
+          43.704395868447584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "auvergne_rhone_alpes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.544969089166243,
+          45.51177792927013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "provence_alpes_cote_d_azur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.06469276265742,
+          43.96329149209328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "corse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.107783020486998,
+          42.16146263536311
+        ]
+      }
+    }
+  ]
+}

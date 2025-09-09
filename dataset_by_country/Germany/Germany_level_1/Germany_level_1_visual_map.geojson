@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.419757397029102,
+          51.14153247389093
+        ]
+      }
+    }
+  ]
+}
