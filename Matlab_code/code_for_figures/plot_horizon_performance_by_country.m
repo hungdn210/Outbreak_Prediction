@@ -84,7 +84,7 @@ else
 end
 
 % ---- Figure ----
-fh = figure('Color','w','Units','normalized','Position',[0.15 0.15 0.6 0.55],'Visible','off');
+fh = figure('Color','w','Units','normalized','Position',[0.15 0.15 0.6 0.55],'Visible','on');
 tlo = tiledlayout(fh, numel(panels), 1, 'TileSpacing','compact','Padding','compact');
 
 titleStr = opt.titleStr;
