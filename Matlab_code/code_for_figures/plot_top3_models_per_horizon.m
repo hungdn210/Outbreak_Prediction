@@ -77,7 +77,7 @@ end
 R = cell2table(rows, 'VariableNames', {'Horizon','Rank','Model','Value'});
 
 % --------- Plotting ---------
-fh = figure('Color','w','Units','normalized','Position',[0.1 0.15 0.75 0.55],'Visible','off');
+fh = figure('Color','w','Units','normalized','Position',[0.1 0.15 0.75 0.55],'Visible','on');
 ax = axes(fh); hold(ax,'on'); box(ax,'on'); grid(ax,'on');
 
 % Models that ever appear in top-3 (stable order)
@@ -140,8 +140,8 @@ end
 set(ax,'XTick',1:H, 'XTickLabel',"Month+" + horizons, 'FontSize',baseFS);
 ylabel(ax, sprintf('Top-3 %s per horizon', metric), 'FontSize', baseFS);
 ylim(ax,[0 1]);
-ttl = sprintf('Top-3 models per horizon — %s', metric);
-if ~strcmp(onlyCtry,""), ttl = ttl + " (" + onlyCtry + ")"; else, ttl = ttl + " (ALL datasets)"; end
+ttl = 'Top-3 models per horizon — All datasets';
+% if ~strcmp(onlyCtry,""), ttl = ttl + " (" + onlyCtry + ")"; else, ttl = ttl + " (All datasets)"; end
 title(ax, ttl, 'FontWeight','bold','FontSize', baseFS+2);
 
 % Legend (one entry per model, unique colors)

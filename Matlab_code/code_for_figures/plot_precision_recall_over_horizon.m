@@ -87,7 +87,7 @@ for m = 1:Nmods
 end
 
 % ---------- Figure ----------
-fh = figure('Color','w','Units','normalized','Position',[0.08 0.15 0.80 0.58],'Visible','off');
+fh = figure('Color','w','Units','normalized','Position',[0.08 0.15 0.80 0.58],'Visible','on');
 tlo = tiledlayout(fh,1,2,'TileSpacing','compact','Padding','compact');
 
 ttl = "Precision–Recall vs Forecast Horizon";

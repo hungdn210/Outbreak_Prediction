@@ -86,7 +86,7 @@ for k = 1:H
 end
 
 % --------- Plot ---------
-fh = figure('Color','w','Units','normalized','Position',[0.15 0.2 0.6 0.5],'Visible','off');
+fh = figure('Color','w','Units','normalized','Position',[0.15 0.2 0.6 0.5],'Visible','on');
 ax = axes(fh); hold(ax,'on'); box(ax,'on'); grid(ax,'on');
 
 % Use categorical x with Month+1..K labels

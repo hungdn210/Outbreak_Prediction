@@ -76,7 +76,7 @@ for i = 1:N
 end
 
 % --------- Plot ---------
-fh = figure('Color','w','Units','normalized','Position',[0.06 0.15 0.88 0.65],'Visible','off');
+fh = figure('Color','w','Units','normalized','Position',[0.06 0.15 0.88 0.65],'Visible','on');
 ax = axes(fh); hold(ax,'on'); box(ax,'on'); grid(ax,'on');
 
 % Draw boxes first

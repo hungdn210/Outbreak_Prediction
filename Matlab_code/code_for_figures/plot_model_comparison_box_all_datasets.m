@@ -67,7 +67,7 @@ for i = 1:N
 end
 
 % --------- Plot ---------
-fh = figure('Color','w','Units','normalized','Position',[0.06 0.15 0.88 0.65],'Visible','off');
+fh = figure('Color','w','Units','normalized','Position',[0.06 0.15 0.88 0.65],'Visible','on');
 ax = axes(fh); hold(ax,'on'); box(ax,'on'); grid(ax,'on');
 
 % Draw boxes
@@ -101,7 +101,7 @@ end
 xlim(ax, [0.5 N+0.5]);
 set(ax, 'XTick', 1:N, 'XTickLabel', models, ...
     'XTickLabelRotation', 25, 'FontSize', baseFS);
-ylabel(ax, sprintf('%s (distribution across ALL datasets & horizons)', metric), 'FontSize', baseFS);
+ylabel(ax, "Average F2 (all datasets & horizons)", 'FontSize', baseFS);
 ttl = opt.titleStr;
 if isempty(ttl), ttl = sprintf('Model comparison — %s (ALL datasets)', metric); end
 title(ax, ttl, 'FontWeight','bold', 'FontSize', baseFS+2);
