@@ -62,7 +62,7 @@ def _get_weight_and_thresholds_search(models_proba, Y_true, beta=2, grid_list=(0
         w_try = w_try / (w_try.sum() + EPS)
         proba_try = _combine_logit_weighted(models_proba, w_try)[:, 1]
         thresholds_try, _ = _scan_threshold(proba_try, Y_true, beta=beta)
-        f2_try = fbeta_score(Y_true, (proba_try > thresholds_try).astype(int), beta=beta, zero_division=0)
+        f2_try = fbeta_score(Y_true, (proba_try >= thresholds_try).astype(int), beta=beta, zero_division=0)
         if f2_try > cur_best_results[2]: # it is current best_score
           cur_best_results = (cur_grid, thresholds_try, f2_try)
       if cur_best_results[2] > best_score:
@@ -157,7 +157,7 @@ def Run_single_model(model_name, model, X_train, Y_train, X_test, Y_test, val_si
 
   return Y_proba, Y_pred_list, learned_thresholds
 
-def Run_Ensemble_mean_weight(models_list, main_X_train, main_Y_train, main_X_test, main_Y_test, val_size, thresholds, num_best_models, debug=False):
+def Run_Ensemble_mean_weight(models_list, main_X_train, main_Y_train, main_X_test, main_Y_test, val_size, thresholds, num_best_models,enforce_fixed_threshold, equal_weights, debug=False):
   # Choose number of top models for ensemble
   model_scores = {}
   model_proba_list = {}
@@ -219,6 +219,13 @@ def Run_Ensemble_mean_weight(models_list, main_X_train, main_Y_train, main_X_tes
     proba_models_val_k = [cur_model_proba[k] for cur_model_proba in proba_val_list]
     Y_true_k = cur_Y_val[:, k]
     weights_k, thresholds_k = _get_weight_and_thresholds_search(models_proba=proba_models_val_k, Y_true=Y_true_k, debug=debug)
+
+    if equal_weights:
+      weights_k = np.ones(len(proba_models_val_k), dtype=float)
+      weights_k /= weights_k.sum()
+    if enforce_fixed_threshold and isinstance(thresholds, float):
+      thresholds_k = float(thresholds)
+    
     learned_weights.append(weights_k)
     learned_thresholds.append(thresholds_k)
     if debug and k == 0:
