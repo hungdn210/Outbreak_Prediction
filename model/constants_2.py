@@ -59,10 +59,9 @@ DEBUG_LENGTH = 3
 VAL_SIZE = 0.15
 
 INPUT_DIR_LIST = [
-  'dataset_by_country/Italy/Italy_level_2/Italy_level_2_final.csv',
-  'dataset_by_country/Greece/Greece_level_2/Greece_level_2_final.csv'
+  'dataset_by_country/Italy/Italy_level_2/Italy_level_2_final.csv'
 ] 
-OUTPUT_DIR = 'results_log_models_rest.csv'
+OUTPUT_DIR = 'results_log_models_rest_italy.csv'
 
 MODELS_LIST = {
     # --- KNN (best: n=5, distance, p=1)

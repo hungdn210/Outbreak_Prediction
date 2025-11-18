@@ -2,27 +2,19 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-def plot_baselines_avg(csv_path, metric="F2", countries=None):
+def plot_baselines_avg(csv_path, metric="F2", countries=None, top_k=3):
     """
     Plot baseline models' metric vs horizon averaged over selected countries,
-    and print average metrics per model across all horizons + countries.
-
-    Parameters
-    ----------
-    csv_path : str
-        CSV file path containing baseline results.
-    metric : str
-        Metric to analyse (F2, MCC, AUC, Recall, Precision, BalancedAccuracy).
-    countries : list or None
-        List of country names to include. Example: ["France", "Italy", "Greece"].
-        If None → use all countries in the CSV.
+    and print:
+      • average metric per model across all horizons + countries
+      • top-K models per horizon.
     """
 
     # ---- load data ----
     df = pd.read_csv(csv_path)
 
     # ---- extract country from data_id ----
-    df["country"] = df["data_id"].str.split("_").str[0]
+    df["country_group"] = df["data_id"].str.split("_").str[:3].str.join("_")
 
     # ---- extract horizon K from Month+K ----
     df["horizon"] = (
@@ -33,7 +25,8 @@ def plot_baselines_avg(csv_path, metric="F2", countries=None):
 
     # ---- filter by countries ----
     if countries is not None:
-        df = df[df["country"].isin(countries)].copy()
+        df = df[df["country_group"].isin(countries)].copy()
+
 
     if df.empty:
         raise ValueError("No rows left after filtering — check country names.")
@@ -57,6 +50,20 @@ def plot_baselines_avg(csv_path, metric="F2", countries=None):
         df.groupby(["model", "horizon"], as_index=False)[metric]
           .mean()
     )
+
+    # ======================================================
+    # 2b) PRINT TOP-K MODELS PER HORIZON
+    # ======================================================
+    print(f"\n=== Top {top_k} models per horizon (by mean {metric}) ===")
+    for h in sorted(avg_df["horizon"].unique()):
+        sub = (
+            avg_df[avg_df["horizon"] == h]
+            .sort_values(metric, ascending=False)
+            .head(top_k)
+        )
+        print(f"\nHorizon Month+{h}:")
+        print(sub[["model", metric]].to_string(index=False,
+                                               float_format=lambda x: f"{x:.4f}"))
 
     # ======================================================
     # 3) Plot metric vs horizon per model
@@ -84,17 +91,18 @@ def plot_baselines_avg(csv_path, metric="F2", countries=None):
 # Example run
 # ======================
 if __name__ == "__main__":
+    # plot_baselines_avg(
+    #     csv_path="z_results_LWE.csv",
+    #     metric="F2",
+    #     countries=["France_level_3", "Italy_level_3", "Greece_level_3"]
+    # )
     plot_baselines_avg(
-        #csv_path="results_log_models_rest.csv",
-        #csv_path="z_results_baselines_TH_0.5_new.csv",
-        csv_path="z_results_LWE.csv",
+        csv_path="temp.csv",
         metric="F2",
-        countries=["Greece"]
+        countries=["France_level_2", "Italy_level_3", "Greece_level_3"]
     )
     # plot_baselines_avg(
-    #     #csv_path="results_log_models_rest.csv",
-    #     csv_path="z_results_baselines_TH_0.5_new.csv",
-    #     #csv_path="z_results_LWE_new.csv",
+    #     csv_path="z_results_baselines_TH_auto.csv",
     #     metric="F2",
-    #     countries=["France", "Italy", "Greece"]
+    #     countries=["France_level_3", "Italy_level_3", "Greece_level_3"]
     # )
