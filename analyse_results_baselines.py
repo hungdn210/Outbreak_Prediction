@@ -85,7 +85,16 @@ def plot_baselines_avg(csv_path, metric="F2", countries=None):
 # ======================
 if __name__ == "__main__":
     plot_baselines_avg(
-        csv_path="z_results_baselines_TH_0.5.csv",
+        #csv_path="results_log_models_rest.csv",
+        #csv_path="z_results_baselines_TH_0.5_new.csv",
+        csv_path="z_results_LWE.csv",
         metric="F2",
-        countries=["France", "Greece", "Italy"]
+        countries=["Greece"]
     )
+    # plot_baselines_avg(
+    #     #csv_path="results_log_models_rest.csv",
+    #     csv_path="z_results_baselines_TH_0.5_new.csv",
+    #     #csv_path="z_results_LWE_new.csv",
+    #     metric="F2",
+    #     countries=["France", "Italy", "Greece"]
+    # )

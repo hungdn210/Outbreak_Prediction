@@ -84,7 +84,7 @@ def plot_avg_over_countries(csv_path, metric="F2", countries=None):
 
 
 if __name__ == "__main__":
-    csv_path = "z_results_LWE.csv"
+    csv_path = "z_results_baselines_TH_0.5_new.csv"
 
     # Average over France, Greece, Italy
     plot_avg_over_countries(
