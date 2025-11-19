@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-def plot_baselines_avg(csv_path, metric="F2", countries=None, top_k=3):
+def plot_baselines_avg(csv_path, metric="F2", countries=None, top_k=9):
     """
     Plot baseline models' metric vs horizon averaged over selected countries,
     and print:
@@ -97,12 +97,12 @@ if __name__ == "__main__":
     #     countries=["France_level_3", "Italy_level_3", "Greece_level_3"]
     # )
     plot_baselines_avg(
-        csv_path="temp.csv",
+        csv_path="Final_results.csv",
         metric="F2",
-        countries=["France_level_2", "Italy_level_3", "Greece_level_3"]
+        countries=["Italy_level_3"]
     )
     # plot_baselines_avg(
-    #     csv_path="z_results_baselines_TH_auto.csv",
+    #     csv_path="z_results_baselines_TH_0.5.csv",
     #     metric="F2",
     #     countries=["France_level_3", "Italy_level_3", "Greece_level_3"]
     # )

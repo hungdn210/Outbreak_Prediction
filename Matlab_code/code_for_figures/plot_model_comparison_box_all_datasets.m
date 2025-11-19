@@ -25,6 +25,7 @@ baseFS   = opt.baseFontSize;
 
 % --------- Load & prep ---------
 T = readtable(csvFile, 'TextType','string');
+T = T( contains(T.data_id, "Greece"), : );
 
 need = ["data_id","model","month",metric];
 missing = setdiff(need, string(T.Properties.VariableNames));
@@ -84,13 +85,6 @@ end
 
 % Fix y-axis to 0–1 and paint alternating background bands
 ylim(ax, [0 1]);
-for i = 1:N
-    colBand = (mod(i,2)==1) * [1 1 1] + (mod(i,2)==0) * [0.97 1.00 0.97];
-    p = patch(ax, [i-0.5 i+0.5 i+0.5 i-0.5], [0 0 1 1], ...
-              colBand, 'EdgeColor','none', 'FaceAlpha',0.20);
-    uistack(p,'bottom');
-end
-
 % Mean markers (white with thin black edge)
 for i = 1:N
     scatter(ax, i, means(i), 28, 'w', 'filled', ...
