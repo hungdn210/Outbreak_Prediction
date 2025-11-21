@@ -46,7 +46,7 @@ def get_latex_results_per_country():
     df["country"] = df["data_id"].str.extract(r"(France|Italy|Greece)", expand=False)
 
     # Select compact metrics for 1-column fit
-    metrics = ["F2", "Recall", "Precision", "AUC"]
+    metrics = ["F2", "Recall", "Precision", "BalancedAccuracy"]
 
     def make_small_country_table(df, country):
         sub = df[df["country"] == country].copy()
@@ -63,7 +63,7 @@ def get_latex_results_per_country():
             "F2": "Mean F2",
             "Recall": "Mean Recall",
             "Precision": "Mean Precision",
-            "AUC": "Mean AUC"
+            "BalancedAccuracy": "Balanced Accuracy"
         })
 
         latex = table_df.to_latex(
@@ -78,5 +78,5 @@ def get_latex_results_per_country():
 
         return table_df
 
-    make_small_country_table(df, "Greece")
+    make_small_country_table(df, "France")
 get_latex_results_per_country()

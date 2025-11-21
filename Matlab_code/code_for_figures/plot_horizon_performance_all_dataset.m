@@ -29,6 +29,7 @@ hiList = string(opt.highlightModels);   % normalize
 
 % ---- Read CSV ----
 T = readtable(csvFile, 'TextType','string');
+T = T( contains(T.data_id, "France"), : );
 
 % Guards
 need = ["data_id","model","month",metric];
