@@ -97,9 +97,9 @@ if __name__ == "__main__":
     #     countries=["France_level_3", "Italy_level_3", "Greece_level_3"]
     # )
     plot_baselines_avg(
-        csv_path="Final_results.csv",
+        csv_path="temp_1.csv",
         metric="F2",
-        countries=["Italy_level_3"]
+        countries=["France_level_2", "Italy_level_3", "Greece_level_3"]
     )
     # plot_baselines_avg(
     #     csv_path="z_results_baselines_TH_0.5.csv",

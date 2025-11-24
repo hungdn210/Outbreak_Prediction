@@ -44,6 +44,10 @@ from xgboost import XGBClassifier
 from lightgbm import LGBMClassifier
 from catboost import CatBoostClassifier
 from sklearn.multioutput import MultiOutputClassifier
+from sklearn.linear_model import SGDClassifier
+from sklearn.pipeline import make_pipeline
+from sklearn.preprocessing import StandardScaler
+from sklearn.multioutput import MultiOutputClassifier
 
 
 # --- CONSTANT --- 
@@ -74,15 +78,6 @@ MODELS_LIST = {
         )
     ),
 
-    # --- SVC RBF (best: C=0.5, gamma='scale')
-    "SVC (RBF Kernel)": MultiOutputClassifier(
-        make_pipeline(
-            StandardScaler(),
-            SVC(kernel='rbf', C=0.5, gamma='scale',
-                probability=True, class_weight='balanced', random_state=42)
-        )
-    ),
-
     # --- Logistic Regression (best: L1, C=0.1, saga)
     "Logistic Regression": MultiOutputClassifier(
         make_pipeline(
@@ -91,18 +86,6 @@ MODELS_LIST = {
                 penalty="l1", C=0.1, solver='saga',
                 class_weight="balanced", max_iter=20000
             )
-        )
-    ),
-
-    # --- Linear SVM (Calibrated) (best: C=0.25)
-    "Linear SVM (Calibrated)": MultiOutputClassifier(
-        CalibratedClassifierCV(
-            Pipeline([
-                ("scaler", StandardScaler()),
-                ("svc", LinearSVC(C=0.25, class_weight="balanced",
-                                  random_state=42, max_iter=40000))
-            ]),
-            method="sigmoid", cv=3
         )
     ),
 

@@ -1,7 +1,7 @@
 clear; clc;
 
 % ---- CONFIG ----
-csvFile = 'Final_results.csv';             
+csvFile = 'LWE_comparison.csv';             
 outDir  = 'results';
 metric  = 'F2';
 panelFontSize = 11;

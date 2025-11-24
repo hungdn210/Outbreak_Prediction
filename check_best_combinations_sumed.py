@@ -4,8 +4,8 @@ from itertools import product
 # ----------------------------
 # 1. Load both result files
 # ----------------------------
-baseline_csv = "z_results_baselines_TH_auto.csv"
-lwe_csv = "z_results_LWE.csv"
+baseline_csv = "temp_1.csv"
+lwe_csv = "temp_2_lwe.csv"
 
 df_b = pd.read_csv(baseline_csv)
 df_l = pd.read_csv(lwe_csv)
@@ -22,9 +22,9 @@ df_l["horizon"] = df_l["month"].str.extract(r"Month\+(\d+)").astype(int)
 # 2. Define available dataset variants
 # --------------------------------------
 choices = {
-    "France": ["France_level_2", "France_level_3"],
-    "Italy":  ["Italy_level_2",  "Italy_level_3"],
-    "Greece": ["Greece_level_2", "Greece_level_3"],
+    "France": ["France_level_2"],
+    "Italy":  ["Italy_level_3"],
+    "Greece": ["Greece_level_3"],
 }
 
 all_combinations = list(product(*choices.values()))
