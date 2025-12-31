@@ -53,11 +53,22 @@ N = height(G);
 colors = hsv_distinct(N);
 
 % Horizontal bars
-hb = barh(ax, G.MeanMetric, 'FaceColor','flat');
+% Horizontal bars: one bar per model at y = i
+hb = gobjects(N,1);
+
 for i = 1:N
-    hb.CData(i,:) = colors(i,:);
+    hb(i) = barh(ax, i, G.MeanMetric(i), 0.6, ...  % <-- note the 'i' and width
+        'FaceColor', colors(i,:), ...
+        'EdgeColor','none', ...
+        'DisplayName', G.model{i});   % legend label
 end
 
+% Tidy axes
+yticks(1:N);
+yticklabels(G.model);
+ylim([0 N+1]);
+
+legend(ax,'Location','southoutside','NumColumns',2,'Box','off');
 % Labels
 yticks(1:N);
 yticklabels(G.model);

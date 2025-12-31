@@ -34,10 +34,10 @@ def Run():
     #   ensemble_metrics = evaluation_logging.Get_metric_results(Y_proba=ensemble_Y_proba, Y_pred=ensemble_Y_pred, Y_test=Y_test, debug=False)
     #   evaluation_logging.Log_results_to_csv(model_name=f'Ensemble (mean weight) top {i} model_TH_0.5_equal_weights', metrics=ensemble_metrics, learned_thresholds=ensemble_learned_thresholds, K=constants.K, input_dir=csv_file, output_dir=constants.OUTPUT_DIR, Y_test=Y_test, Y_pred=ensemble_Y_pred, debug=True)
 
-    # for i in range(3, constants.NUMBER_OF_BEST_MODELS_FOR_ENSEMBLE + 4):
-    #   ensemble_Y_pred, ensemble_Y_proba, ensemble_learned_thresholds = models.Run_Ensemble_mean_weight(models_list=constants.MODELS_LIST, main_X_train=X_train, main_Y_train=Y_train, main_X_test=X_test, main_Y_test=Y_test, val_size=constants.VAL_SIZE, thresholds='auto', num_best_models=i,enforce_fixed_threshold=False, equal_weights=True, debug=False)
-    #   ensemble_metrics = evaluation_logging.Get_metric_results(Y_proba=ensemble_Y_proba, Y_pred=ensemble_Y_pred, Y_test=Y_test, debug=False)
-    #   evaluation_logging.Log_results_to_csv(model_name=f'Ensemble (mean weight) top {i} models_TH_auto_equal_weight', metrics=ensemble_metrics, learned_thresholds=ensemble_learned_thresholds, K=constants.K, input_dir=csv_file, output_dir=constants.OUTPUT_DIR, Y_test=Y_test, Y_pred=ensemble_Y_pred, debug=True)
+    for i in range(3, constants.NUMBER_OF_BEST_MODELS_FOR_ENSEMBLE + 4):
+      ensemble_Y_pred, ensemble_Y_proba, ensemble_learned_thresholds = models.Run_Ensemble_mean_weight(models_list=constants.MODELS_LIST, main_X_train=X_train, main_Y_train=Y_train, main_X_test=X_test, main_Y_test=Y_test, val_size=constants.VAL_SIZE, thresholds='auto', num_best_models=i,enforce_fixed_threshold=False, equal_weights=True, debug=False)
+      ensemble_metrics = evaluation_logging.Get_metric_results(Y_proba=ensemble_Y_proba, Y_pred=ensemble_Y_pred, Y_test=Y_test, debug=False)
+      evaluation_logging.Log_results_to_csv(model_name=f'Ensemble (mean weight) top {i} models_TH_auto_equal_weight', metrics=ensemble_metrics, learned_thresholds=ensemble_learned_thresholds, K=constants.K, input_dir=csv_file, output_dir=constants.OUTPUT_DIR, Y_test=Y_test, Y_pred=ensemble_Y_pred, debug=True)
 
     # for i in range(3, constants.NUMBER_OF_BEST_MODELS_FOR_ENSEMBLE + 4):
     #   ensemble_Y_pred, ensemble_Y_proba, ensemble_learned_thresholds = models.Run_Ensemble_mean_weight(models_list=constants.MODELS_LIST, main_X_train=X_train, main_Y_train=Y_train, main_X_test=X_test, main_Y_test=Y_test, val_size=constants.VAL_SIZE, thresholds=0.5, num_best_models=i,enforce_fixed_threshold=True, equal_weights=False, debug=False)

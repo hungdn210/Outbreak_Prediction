@@ -33,7 +33,7 @@ def get_latex_results_all_dataset():
         index=False,
         escape=False,           # allow e.g. parentheses in model names
         column_format="lccccccc",  # Model | 4 numeric columns
-        float_format="%.3f"    # 3 decimal places
+        float_format="%.5f"    # 3 decimal places
     )
 
     print(latex_table)
@@ -70,7 +70,7 @@ def get_latex_results_per_country():
             index=False,
             escape=False,
             column_format="lccc",   # perfect for one column
-            float_format="%.3f"
+            float_format="%.5f"
         )
 
         print(f"\n===== {country} Small Table =====\n")
@@ -78,5 +78,5 @@ def get_latex_results_per_country():
 
         return table_df
 
-    make_small_country_table(df, "France")
+    make_small_country_table(df, "Greece")
 get_latex_results_per_country()
